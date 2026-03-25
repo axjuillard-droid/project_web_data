@@ -161,10 +161,17 @@ python src/kge/analyse/tsne_visualization.py
 ```
 
 ### Phase 7 — Assistant RAG & Interface Web (UI)
+![Interface](1.jpg)
 L'assistant interactif et modulaire est interrogeable via une **interface visuelle Streamlit de qualité professionnelle (Dark Mode)** proposant 3 onglets principaux :
+![Interface](5.jpg)
 - **Assistant RAG Sémantique** (avec choix entre API Cloud Gemini ou modèle local 100% privé **Ollama Llama3**)
+![Interface](2.jpg)
+![Interface](3.jpg)
 - **Prédiction de Liens KGE** visuelle basée sur PyKEEN (incluant Ground-Truth via datasets natifs inédits)
+![Interface](4.jpg)
+![Interface](6.jpg)
 - **Dashboard Dynamique** avec analyse des Embeddings de TransE/DistMult et des métadonnées du Graphe.
+![Interface](7.jpg)
 
 Lancez simplement le Web Serveur localement pour lancer l'interface :
 ```bash
