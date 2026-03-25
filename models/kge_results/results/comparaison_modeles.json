@@ -1,0 +1,36 @@
+{
+  "configuration": {
+    "embedding_dim": 200,
+    "learning_rate": 0.001,
+    "batch_size": 512,
+    "num_epochs": 100,
+    "negative_sampler": "basic",
+    "random_seed": 42
+  },
+  "resultats": [
+    {
+      "model": "TransE",
+      "embedding_dim": 200,
+      "num_epochs": 100,
+      "learning_rate": 0.001,
+      "batch_size": 512,
+      "duration_s": 73,
+      "MRR_filtered": 0.1156,
+      "Hits@1_filtered": 0.0179,
+      "Hits@3_filtered": 0.1724,
+      "Hits@10_filtered": 0.282
+    },
+    {
+      "model": "DistMult",
+      "embedding_dim": 200,
+      "num_epochs": 100,
+      "learning_rate": 0.001,
+      "batch_size": 512,
+      "duration_s": 81,
+      "MRR_filtered": 0.3236,
+      "Hits@1_filtered": 0.2445,
+      "Hits@3_filtered": 0.358,
+      "Hits@10_filtered": 0.4676
+    }
+  ]
+}

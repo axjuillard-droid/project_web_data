@@ -1,0 +1,14 @@
+{
+  "kb_source": "knowledge_base_expanded.ttl",
+  "total_triplets": 28488,
+  "train_triplets": 22790,
+  "valid_triplets": 2848,
+  "test_triplets": 2850,
+  "total_entites": 14784,
+  "train_entites": 14784,
+  "valid_entites": 1937,
+  "test_entites": 1955,
+  "total_relations": 376,
+  "entites_only_valid": 0,
+  "entites_only_test": 0
+}

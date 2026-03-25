@@ -1,0 +1,30 @@
+{
+  "note": "Ce fichier sera genere automatiquement par kge/train_kge.py apres l'entrainement des modeles.",
+  "configuration": {
+    "embedding_dim": 200,
+    "learning_rate": 0.001,
+    "batch_size": 512,
+    "num_epochs": 100,
+    "random_seed": 42
+  },
+  "resultats": [
+    {
+      "modele": "TransE",
+      "MRR_filtered": null,
+      "Hits@1_filtered": null,
+      "Hits@3_filtered": null,
+      "Hits@10_filtered": null,
+      "duree_secondes": null,
+      "statut": "non entraine"
+    },
+    {
+      "modele": "DistMult",
+      "MRR_filtered": null,
+      "Hits@1_filtered": null,
+      "Hits@3_filtered": null,
+      "Hits@10_filtered": null,
+      "duree_secondes": null,
+      "statut": "non entraine"
+    }
+  ]
+}

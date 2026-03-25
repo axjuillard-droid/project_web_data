@@ -1,0 +1,2006 @@
+@prefix : <http://monprojet.org/sports/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:2008SummerOlympics a :Competition ;
+    rdfs:label "2008SummerOlympics"@en ;
+    :hostedBy :China ;
+    :locatedIn :Beijing ;
+    :year 2008 .
+
+:2012SummerOlympics a :Competition ;
+    rdfs:label "2012 Summer Olympics"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q8567 .
+
+:2014FifaWorldCup a :Competition ;
+    rdfs:label "2014 FIFA World Cup"@en ;
+    :represents :Brazil ;
+    owl:sameAs wd:Q20149 .
+
+:2016SummerOlympics a :Competition ;
+    rdfs:label "2016 Summer Olympics"@en ;
+    :represents :Brazil ;
+    owl:sameAs wd:Q8567 .
+
+:2018FifaWorldCup a :Competition ;
+    rdfs:label "2018 FIFA World Cup"@en ;
+    :represents :Russia ;
+    owl:sameAs wd:Q38717 .
+
+:2020SummerOlympics a :Competition ;
+    rdfs:label "2020 Summer Olympics"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q8567 .
+
+:2022FifaWorldCup a :Competition ;
+    rdfs:label "2022 FIFA World Cup"@en ;
+    :represents :Qatar ;
+    owl:sameAs wd:Q20771 .
+
+:2024SummerOlympics a :Competition ;
+    rdfs:label "2024 Summer Olympics"@en ;
+    :represents :France ;
+    owl:sameAs wd:Q193078 .
+
+:AdilGaliakhmetov a :Athlete,
+        :Person ;
+    rdfs:label "AdilGaliakhmetov"@en ;
+    :participatedIn :OlympicsBeijing2008 ;
+    :represents :Kazakhstan .
+
+:AlexSirac a :Athlete,
+        :Person ;
+    rdfs:label "Alex Sirac"@en ;
+    :represents :France ;
+    owl:sameAs wd:Q47472326 .
+
+:AlexaKonstand a :Athlete,
+        :Person ;
+    rdfs:label "Alexa Konstand"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q122893822 .
+
+:AliThorell a :Athlete,
+        :Person ;
+    rdfs:label "Ali Thorell"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q122893813 .
+
+:AndreaCassinelli a :Athlete,
+        :Person ;
+    rdfs:label "Andrea Cassinelli"@en ;
+    :represents :Italy ;
+    owl:sameAs wd:Q43340889 .
+
+:AngelinaTarasova a :Athlete,
+        :Person ;
+    rdfs:label "Angelina Tarasova"@en ;
+    :represents :Russia ;
+    owl:sameAs wd:Q133838997 .
+
+:AnitaNagay a :Athlete,
+        :Person ;
+    rdfs:label "Anita Nagay"@en ;
+    :represents :Kazakhstan ;
+    owl:sameAs wd:Q133839252 .
+
+:AnneMagellan a :Athlete,
+        :Person ;
+    rdfs:label "Anne Magellan"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q122893800 .
+
+:ArisaGo a :Athlete,
+        :Person ;
+    rdfs:label "Arisa Go"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q27865869 .
+
+:AurélieLévêque a :Athlete,
+        :Person ;
+    rdfs:label "Aurélie Lévêque"@en ;
+    :represents :France ;
+    owl:sameAs wd:Q105076799 .
+
+:AustralianOpen a :Competition ;
+    rdfs:label "Australian Open"@en ;
+    :represents :Australia ;
+    owl:sameAs wd:Q120918 .
+
+:Award a owl:Class ;
+    rdfs:label "Award"@en ;
+    rdfs:comment "Récompense ou titre sportif (non-médaille)"@fr .
+
+:BostonMarathon a :Competition ;
+    rdfs:label "Boston Marathon"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q55494 .
+
+:BramSteenaart a :Athlete,
+        :Person ;
+    rdfs:label "Bram Steenaart"@en ;
+    :represents :KingdomoftheNetherlands ;
+    owl:sameAs wd:Q50330323 .
+
+:BrazilFootballTeam a :Team ;
+    rdfs:label "BrazilFootballTeam"@en ;
+    :teamRepresents :Brazil .
+
+:BrendaWebster a :Athlete,
+        :Person ;
+    rdfs:label "Brenda Webster"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q47545703 .
+
+:CarlLewis a :Athlete,
+        :Person ;
+    rdfs:label "Carl Lewis"@en ;
+    :practicesSport :Athletics ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q12725 .
+
+:CatherineZawadzki a :Athlete,
+        :Person ;
+    rdfs:label "Catherine Zawadzki"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q122893804 .
+
+:ConstanceLevivier a :Athlete,
+        :Person ;
+    rdfs:label "Constance Levivier"@en ;
+    :represents :France ;
+    owl:sameAs wd:Q127421341 .
+
+:CorinneStoddard a :Athlete,
+        :Person ;
+    rdfs:label "Corinne Stoddard"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q58367393 .
+
+:CornelisMoerman a :Athlete,
+        :Person ;
+    rdfs:label "Cornelis Moerman"@en ;
+    :represents :KingdomoftheNetherlands ;
+    owl:sameAs wd:Q2983880 .
+
+:CristianoRonaldo a :Athlete,
+        :Person ;
+    rdfs:label "CristianoRonaldo"@en ;
+    :memberOfTeam :PortugalFootballTeam ;
+    :participatedIn :FIFAWorldCup2006,
+        :FIFAWorldCup2010,
+        :FIFAWorldCup2014,
+        :FIFAWorldCup2018,
+        :FIFAWorldCup2022 ;
+    :practicesSport :Football ;
+    :represents :Portugal ;
+    :wonMedal :GoldMedal .
+
+:Cycling a :Sport ;
+    rdfs:label "Cycling"@en .
+
+:CynthiaMascitto a :Athlete,
+        :Person ;
+    rdfs:label "Cynthia Mascitto"@en ;
+    :represents :Italy ;
+    owl:sameAs wd:Q49494438 .
+
+:DanaéBlais a :Athlete,
+        :Person ;
+    rdfs:label "Danaé Blais"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q50323396 .
+
+:DanielTiborcz a :Athlete,
+        :Person ;
+    rdfs:label "Daniel Tiborcz"@en ;
+    :represents :Hungary ;
+    owl:sameAs wd:Q57541994 .
+
+:DanielaKaluskova a :Athlete,
+        :Person ;
+    rdfs:label "Daniela Kaluskova"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q122893821 .
+
+:EirikAndersen a :Athlete,
+        :Person ;
+    rdfs:label "Eirik Andersen"@en ;
+    :represents :Norway ;
+    owl:sameAs wd:Q137189608 .
+
+:ElisaConfortola a :Athlete,
+        :Person ;
+    rdfs:label "Elisa Confortola"@en ;
+    :represents :Italy ;
+    owl:sameAs wd:Q81902373 .
+
+:EliudKipchoge a :Athlete,
+        :Person ;
+    rdfs:label "EliudKipchoge"@en ;
+    :participatedIn :BerlinMarathon2018,
+        :OlympicsParis2024,
+        :OlympicsRioDeJaneiro2016,
+        :OlympicsTokyo2020 ;
+    :practicesSport :Athletics ;
+    :represents :Kenya ;
+    :wonMedal :GoldMedal .
+
+:FrisoEmons a :Athlete,
+        :Person ;
+    rdfs:label "Friso Emons"@en ;
+    :represents :KingdomoftheNetherlands ;
+    owl:sameAs wd:Q50323519 .
+
+:FélixPigeon a :Athlete,
+        :Person ;
+    rdfs:label "Félix Pigeon"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q81906173 .
+
+:GabrielVolet a :Athlete,
+        :Person ;
+    rdfs:label "Gabriel Volet"@en ;
+    :represents :France ;
+    owl:sameAs wd:Q81907956 .
+
+:GaryGriffin a :Athlete,
+        :Person ;
+    rdfs:label "Gary Griffin"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q17305979 .
+
+:GemmaCooper a :Athlete,
+        :Person ;
+    rdfs:label "Gemma Cooper"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q50396685 .
+
+:GermanyFootballTeam a :Team ;
+    rdfs:label "GermanyFootballTeam"@en ;
+    :teamRepresents :Germany .
+
+:GioyaLancee a :Athlete,
+        :Person ;
+    rdfs:label "Gioya Lancee"@en ;
+    :represents :KingdomoftheNetherlands ;
+    owl:sameAs wd:Q81496523 .
+
+:HanaTakahashi a :Athlete,
+        :Person ;
+    rdfs:label "Hana Takahashi"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q57887947 .
+
+:HarjeetBrarBajakhana a :Athlete,
+        :Person ;
+    rdfs:label "Harjeet Brar Bajakhana"@en ;
+    :represents :India ;
+    owl:sameAs wd:Q5658064 .
+
+:HarunaNagamori a :Athlete,
+        :Person ;
+    rdfs:label "Haruna Nagamori"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q81905669 .
+
+:HirokiYokoyama a :Athlete,
+        :Person ;
+    rdfs:label "Hiroki Yokoyama"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q44699861 .
+
+:HuangYu-ting a :Athlete,
+        :Person ;
+    rdfs:label "Huang Yu-ting"@en ;
+    :represents :Taiwan ;
+    owl:sameAs wd:Q48551527 .
+
+:HwangDae-heon a :Athlete,
+        :Person ;
+    rdfs:label "Hwang Dae-heon"@en ;
+    :represents :SouthKorea ;
+    owl:sameAs wd:Q41532727 .
+
+:IanQuinn a :Athlete,
+        :Person ;
+    rdfs:label "Ian Quinn"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q105765673 .
+
+:JangSung-woo a :Athlete,
+        :Person ;
+    rdfs:label "Jang Sung-woo"@en ;
+    :represents :SouthKorea ;
+    owl:sameAs wd:Q81903914 .
+
+:JegorDomoratskij a :Athlete,
+        :Person ;
+    rdfs:label "Jegor Domoratskij"@en ;
+    :represents :Belarus ;
+    owl:sameAs wd:Q109335865 .
+
+<http://monprojet.org/sports/JensVan'tWout> a :Athlete,
+        :Person ;
+    rdfs:label "Jens van 't Wout"@en ;
+    :represents :KingdomoftheNetherlands ;
+    owl:sameAs wd:Q105151424 .
+
+:JessicaSchlosser a :Athlete,
+        :Person ;
+    rdfs:label "Jessica Schlosser"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q122893816 .
+
+:JuliaMoore a :Athlete,
+        :Person ;
+    rdfs:label "Julia Moore"@en ;
+    :represents :Australia ;
+    owl:sameAs wd:Q133843237 .
+
+:KamilaSellier a :Athlete,
+        :Person ;
+    rdfs:label "Kamila Sellier"@en ;
+    :represents :Poland ;
+    owl:sameAs wd:Q50323631 .
+
+:KathleenReady a :Athlete,
+        :Person ;
+    rdfs:label "Kathleen Ready"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q122893802 .
+
+:KatiaColturi a :Athlete,
+        :Person ;
+    rdfs:label "Katia Colturi"@en ;
+    :represents :Italy ;
+    owl:sameAs wd:Q45369895 .
+
+:KatiaFilippi a :Athlete,
+        :Person ;
+    rdfs:label "Katia Filippi"@en ;
+    :represents :Italy ;
+    owl:sameAs wd:Q81902889 .
+
+:KayHuisman a :Athlete,
+        :Person ;
+    rdfs:label "Kay Huisman"@en ;
+    :represents :KingdomoftheNetherlands ;
+    owl:sameAs wd:Q57549830 .
+
+:KazukiYoshinaga a :Athlete,
+        :Person ;
+    rdfs:label "Kazuki Yoshinaga"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q44700607 .
+
+:KendylSeverino a :Athlete,
+        :Person ;
+    rdfs:label "Kendyl Severino"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q122893810 .
+
+:KeriMorrison a :Athlete,
+        :Person ;
+    rdfs:label "Keri Morrison"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q47507696 .
+
+:KimiGoetz a :Athlete,
+        :Person ;
+    rdfs:label "Kimi Goetz"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q80760501 .
+
+:KristenSantos-griswold a :Athlete,
+        :Person ;
+    rdfs:label "Kristen Santos-Griswold"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q58368749 .
+
+:KristineBechHolte a :Athlete,
+        :Person ;
+    rdfs:label "Kristine Bech Holte"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q122893819 .
+
+:KylianMbappe a :Athlete,
+        :Person ;
+    rdfs:label "KylianMbappe"@en ;
+    :memberOfTeam :FranceFootballTeam ;
+    :participatedIn :FIFAWorldCup2018,
+        :FIFAWorldCup2022,
+        :OlympicsParis2024 ;
+    :practicesSport :Football ;
+    :represents :France ;
+    :wonMedal :GoldMedal,
+        :SilverMedal .
+
+:KylianMbappé a :Athlete,
+        :Person ;
+    rdfs:label "Kylian Mbappé"@en ;
+    :practicesSport :Football ;
+    :represents :France ;
+    owl:sameAs wd:Q180617 .
+
+:KārlisKrūzbergs a :Athlete,
+        :Person ;
+    rdfs:label "Kārlis Krūzbergs"@en ;
+    :represents :Latvia ;
+    owl:sameAs wd:Q133837878 .
+
+:LeBronJames a :Athlete,
+        :Person ;
+    rdfs:label "LeBronJames"@en ;
+    :memberOfTeam :USABasketballTeam ;
+    :participatedIn :OlympicsAthens2004,
+        :OlympicsBeijing2008,
+        :OlympicsLondon2012 ;
+    :practicesSport :Basketball ;
+    :represents :UnitedStates ;
+    :wonMedal :BronzeMedal,
+        :GoldMedal .
+
+:LionelMessi a :Athlete,
+        :Person ;
+    rdfs:label "LionelMessi"@en ;
+    :memberOfTeam :ArgentinaFootballTeam ;
+    :participatedIn :FIFAWorldCup2006,
+        :FIFAWorldCup2010,
+        :FIFAWorldCup2014,
+        :FIFAWorldCup2018,
+        :FIFAWorldCup2022 ;
+    :practicesSport :Football ;
+    :represents :Argentina ;
+    :wonMedal :GoldMedal .
+
+:LisaEckstein a :Athlete,
+        :Person ;
+    rdfs:label "Lisa Eckstein"@en ;
+    :represents :Germany ;
+    owl:sameAs wd:Q57609547 .
+
+:MaWei a :Athlete,
+        :Person ;
+    rdfs:label "Ma Wei"@en ;
+    :represents <http://monprojet.org/sports/People'sRepublicofChina> ;
+    owl:sameAs wd:Q133837523 .
+
+:MandyHorsepool a :Athlete,
+        :Person ;
+    rdfs:label "Mandy Horsepool"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q47530979 .
+
+:MarcinKamiński a :Athlete,
+        :Person ;
+    rdfs:label "Marcin Kamiński"@en ;
+    :represents :Poland ;
+    owl:sameAs wd:Q138608761 .
+
+:MarionCharlier a :Athlete,
+        :Person ;
+    rdfs:label "Marion Charlier"@en ;
+    :represents :Morocco ;
+    owl:sameAs wd:Q122893814 .
+
+:MariuszBrzeziak a :Athlete,
+        :Person ;
+    rdfs:label "Mariusz Brzeziak"@en ;
+    :represents :Poland ;
+    owl:sameAs wd:Q138608814 .
+
+:MartiniusElvebakken a :Athlete,
+        :Person ;
+    rdfs:label "Martinius Elvebakken"@en ;
+    :represents :Norway ;
+    owl:sameAs wd:Q133850792 .
+
+:MashaKabanova a :Athlete,
+        :Person ;
+    rdfs:label "Masha Kabanova"@en ;
+    :represents :Russia ;
+    owl:sameAs wd:Q122893820 .
+
+<http://monprojet.org/sports/MelleVan'tWout> a :Athlete,
+        :Person ;
+    rdfs:label "Melle van 't Wout"@en ;
+    :represents :KingdomoftheNetherlands ;
+    owl:sameAs wd:Q57540714 .
+
+:MichaelJordan a :Athlete,
+        :Person ;
+    rdfs:label "Michael Jordan"@en ;
+    :practicesSport :Basketball ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q168523 .
+
+:MichaelPhelps a :Athlete,
+        :Person ;
+    rdfs:label "MichaelPhelps"@en ;
+    :participatedIn :OlympicsAthens2004,
+        :OlympicsBeijing2008,
+        :OlympicsLondon2012,
+        :OlympicsRioDeJaneiro2016 ;
+    :practicesSport :Swimming ;
+    :represents :UnitedStates ;
+    :wonMedal :GoldMedal .
+
+:MichelleVelzeboer a :Athlete,
+        :Person ;
+    rdfs:label "Michelle Velzeboer"@en ;
+    :represents :KingdomoftheNetherlands ;
+    owl:sameAs wd:Q81907900 .
+
+:MoFarah a :Athlete,
+        :Person ;
+    rdfs:label "MoFarah"@en ;
+    :participatedIn :OlympicsLondon2012,
+        :OlympicsRioDeJaneiro2016,
+        :WorldAthleticsChampionships2013 ;
+    :practicesSport :Athletics ;
+    :represents :UnitedKingdom ;
+    :wonMedal :GoldMedal .
+
+:MoritzKreuseler a :Athlete,
+        :Person ;
+    rdfs:label "Moritz Kreuseler"@en ;
+    :represents :Germany ;
+    owl:sameAs wd:Q133850543 .
+
+:MuhammadAli a :Athlete,
+        :Person ;
+    rdfs:label "Muhammad Ali"@en ;
+    :practicesSport :Boxing ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q1254 .
+
+:NadiaComaneci a :Athlete,
+        :Person ;
+    rdfs:label "Nadia Comaneci"@en ;
+    :practicesSport :Gymnastics ;
+    :represents :Romania ;
+    owl:sameAs wd:Q12823 .
+
+:NatalieAckerman a :Athlete,
+        :Person ;
+    rdfs:label "Natalie Ackerman"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q122893817 .
+
+:NiallTreacy a :Athlete,
+        :Person ;
+    rdfs:label "Niall Treacy"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q58379404 .
+
+:NielsKingma a :Athlete,
+        :Person ;
+    rdfs:label "Niels Kingma"@en ;
+    :represents :KingdomoftheNetherlands ;
+    owl:sameAs wd:Q57541851 .
+
+:NikolaMazur a :Athlete,
+        :Person ;
+    rdfs:label "Nikola Mazur"@en ;
+    :represents :Poland ;
+    owl:sameAs wd:Q58366935 .
+
+:NovakDjokovic a :Athlete,
+        :Person ;
+    rdfs:label "NovakDjokovic"@en ;
+    :participatedIn :AustralianOpen2008,
+        :AustralianOpen2019,
+        :RolandGarros2016,
+        :USOpen2015,
+        :Wimbledon2014 ;
+    :practicesSport :Tennis ;
+    :represents :Serbia ;
+    :wonMedal :GoldMedal .
+
+:OdinByFarstad a :Athlete,
+        :Person ;
+    rdfs:label "Odin By Farstad"@en ;
+    :represents :Norway ;
+    owl:sameAs wd:Q52206730 .
+
+:PascalDion a :Athlete,
+        :Person ;
+    rdfs:label "Pascal Dion"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q43388742 .
+
+:PatDurnin a :Athlete,
+        :Person ;
+    rdfs:label "Pat Durnin"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q47531095 .
+
+:PavelSitnikov a :Athlete,
+        :Person ;
+    rdfs:label "Pavel Sitnikov"@en ;
+    :represents :Russia ;
+    owl:sameAs wd:Q48333077 .
+
+:PearlyLeung a :Athlete,
+        :Person ;
+    rdfs:label "Pearly Leung"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q122893809 .
+
+:Pelé a :Athlete,
+        :Person ;
+    rdfs:label "Pelé"@en ;
+    :practicesSport :Football ;
+    :represents :Brazil ;
+    owl:sameAs wd:Q36819 .
+
+:PetraVaňková a :Athlete,
+        :Person ;
+    rdfs:label "Petra Vaňková"@en ;
+    :represents :CzechRepublic ;
+    owl:sameAs wd:Q58369073 .
+
+:PéterJászapáti a :Athlete,
+        :Person ;
+    rdfs:label "Péter Jászapáti"@en ;
+    :represents :Hungary ;
+    owl:sameAs wd:Q81903928 .
+
+:Q133752835 a :Athlete,
+        :Person ;
+    rdfs:label "Q133752835"@en ;
+    :represents <http://monprojet.org/sports/People'sRepublicofChina> ;
+    owl:sameAs wd:Q133752835 .
+
+:Q136759786 a :Athlete,
+        :Person ;
+    rdfs:label "Q136759786"@en ;
+    :represents <http://monprojet.org/sports/People'sRepublicofChina> ;
+    owl:sameAs wd:Q136759786 .
+
+:Q136762889 a :Athlete,
+        :Person ;
+    rdfs:label "Q136762889"@en ;
+    :represents :SouthKorea ;
+    owl:sameAs wd:Q136762889 .
+
+:Q136780882 a :Athlete,
+        :Person ;
+    rdfs:label "Q136780882"@en ;
+    :represents :Germany ;
+    owl:sameAs wd:Q136780882 .
+
+:Q136784691 a :Athlete,
+        :Person ;
+    rdfs:label "Q136784691"@en ;
+    :represents :KingdomoftheNetherlands ;
+    owl:sameAs wd:Q136784691 .
+
+:Q137285557 a :Athlete,
+        :Person ;
+    rdfs:label "Q137285557"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137285557 .
+
+:Q137285610 a :Athlete,
+        :Person ;
+    rdfs:label "Q137285610"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137285610 .
+
+:Q137285841 a :Athlete,
+        :Person ;
+    rdfs:label "Q137285841"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137285841 .
+
+:Q137285878 a :Athlete,
+        :Person ;
+    rdfs:label "Q137285878"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137285878 .
+
+:Q137285904 a :Athlete,
+        :Person ;
+    rdfs:label "Q137285904"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137285904 .
+
+:Q137285917 a :Athlete,
+        :Person ;
+    rdfs:label "Q137285917"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137285917 .
+
+:Q137286073 a :Athlete,
+        :Person ;
+    rdfs:label "Q137286073"@en ;
+    :represents :Belgium ;
+    owl:sameAs wd:Q137286073 .
+
+:Q137286084 a :Athlete,
+        :Person ;
+    rdfs:label "Q137286084"@en ;
+    :represents :Belgium ;
+    owl:sameAs wd:Q137286084 .
+
+:Q137286149 a :Athlete,
+        :Person ;
+    rdfs:label "Q137286149"@en ;
+    :represents :Belgium ;
+    owl:sameAs wd:Q137286149 .
+
+:Q137290278 a :Athlete,
+        :Person ;
+    rdfs:label "Q137290278"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137290278 .
+
+:Q137290631 a :Athlete,
+        :Person ;
+    rdfs:label "Q137290631"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q137290631 .
+
+:Q137290678 a :Athlete,
+        :Person ;
+    rdfs:label "Q137290678"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137290678 .
+
+:Q137292696 a :Athlete,
+        :Person ;
+    rdfs:label "Q137292696"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q137292696 .
+
+:Q137297807 a :Athlete,
+        :Person ;
+    rdfs:label "Q137297807"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137297807 .
+
+:Q137297983 a :Athlete,
+        :Person ;
+    rdfs:label "Q137297983"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137297983 .
+
+:Q137298021 a :Athlete,
+        :Person ;
+    rdfs:label "Q137298021"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137298021 .
+
+:Q137298043 a :Athlete,
+        :Person ;
+    rdfs:label "Q137298043"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q137298043 .
+
+:Q137298135 a :Athlete,
+        :Person ;
+    rdfs:label "Q137298135"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q137298135 .
+
+:Q137298250 a :Athlete,
+        :Person ;
+    rdfs:label "Q137298250"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q137298250 .
+
+:Q137298303 a :Athlete,
+        :Person ;
+    rdfs:label "Q137298303"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q137298303 .
+
+:Q137298368 a :Athlete,
+        :Person ;
+    rdfs:label "Q137298368"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q137298368 .
+
+:Q137298472 a :Athlete,
+        :Person ;
+    rdfs:label "Q137298472"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q137298472 .
+
+:Q137299366 a :Athlete,
+        :Person ;
+    rdfs:label "Q137299366"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137299366 .
+
+:Q137299382 a :Athlete,
+        :Person ;
+    rdfs:label "Q137299382"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137299382 .
+
+:Q137299476 a :Athlete,
+        :Person ;
+    rdfs:label "Q137299476"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q137299476 .
+
+:Q137299520 a :Athlete,
+        :Person ;
+    rdfs:label "Q137299520"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q137299520 .
+
+:Q137299545 a :Athlete,
+        :Person ;
+    rdfs:label "Q137299545"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q137299545 .
+
+:Q137299689 a :Athlete,
+        :Person ;
+    rdfs:label "Q137299689"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q137299689 .
+
+:Q137321858 a :Athlete,
+        :Person ;
+    rdfs:label "Q137321858"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137321858 .
+
+:Q137322048 a :Athlete,
+        :Person ;
+    rdfs:label "Q137322048"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137322048 .
+
+:Q137322232 a :Athlete,
+        :Person ;
+    rdfs:label "Q137322232"@en ;
+    :represents :Australia ;
+    owl:sameAs wd:Q137322232 .
+
+:Q137322324 a :Athlete,
+        :Person ;
+    rdfs:label "Q137322324"@en ;
+    :represents :Australia ;
+    owl:sameAs wd:Q137322324 .
+
+:Q137322380 a :Athlete,
+        :Person ;
+    rdfs:label "Q137322380"@en ;
+    :represents :Australia ;
+    owl:sameAs wd:Q137322380 .
+
+:Q137322394 a :Athlete,
+        :Person ;
+    rdfs:label "Q137322394"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137322394 .
+
+:Q137322416 a :Athlete,
+        :Person ;
+    rdfs:label "Q137322416"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137322416 .
+
+:Q137322623 a :Athlete,
+        :Person ;
+    rdfs:label "Q137322623"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137322623 .
+
+:Q137322820 a :Athlete,
+        :Person ;
+    rdfs:label "Q137322820"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q137322820 .
+
+:Q137322859 a :Athlete,
+        :Person ;
+    rdfs:label "Q137322859"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q137322859 .
+
+:Q137351621 a :Athlete,
+        :Person ;
+    rdfs:label "Q137351621"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q137351621 .
+
+:Q137351657 a :Athlete,
+        :Person ;
+    rdfs:label "Q137351657"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q137351657 .
+
+:Q137351698 a :Athlete,
+        :Person ;
+    rdfs:label "Q137351698"@en ;
+    :represents :Australia ;
+    owl:sameAs wd:Q137351698 .
+
+:Q137351706 a :Athlete,
+        :Person ;
+    rdfs:label "Q137351706"@en ;
+    :represents :Australia ;
+    owl:sameAs wd:Q137351706 .
+
+:Q137351714 a :Athlete,
+        :Person ;
+    rdfs:label "Q137351714"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137351714 .
+
+:Q137351741 a :Athlete,
+        :Person ;
+    rdfs:label "Q137351741"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137351741 .
+
+:Q137365112 a :Athlete,
+        :Person ;
+    rdfs:label "Q137365112"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q137365112 .
+
+:Q137365726 a :Athlete,
+        :Person ;
+    rdfs:label "Q137365726"@en ;
+    :represents :Australia ;
+    owl:sameAs wd:Q137365726 .
+
+:Q137366326 a :Athlete,
+        :Person ;
+    rdfs:label "Q137366326"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q137366326 .
+
+:Q137366677 a :Athlete,
+        :Person ;
+    rdfs:label "Q137366677"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q137366677 .
+
+:Q137366691 a :Athlete,
+        :Person ;
+    rdfs:label "Q137366691"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137366691 .
+
+:Q137366712 a :Athlete,
+        :Person ;
+    rdfs:label "Q137366712"@en ;
+    :represents :Italy ;
+    owl:sameAs wd:Q137366712 .
+
+:Q137366720 a :Athlete,
+        :Person ;
+    rdfs:label "Q137366720"@en ;
+    :represents :Italy ;
+    owl:sameAs wd:Q137366720 .
+
+:Q137366747 a :Athlete,
+        :Person ;
+    rdfs:label "Q137366747"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q137366747 .
+
+:Q137366777 a :Athlete,
+        :Person ;
+    rdfs:label "Q137366777"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137366777 .
+
+:Q137427217 a :Athlete,
+        :Person ;
+    rdfs:label "Q137427217"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137427217 .
+
+:Q137427253 a :Athlete,
+        :Person ;
+    rdfs:label "Q137427253"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137427253 .
+
+:Q137427318 a :Athlete,
+        :Person ;
+    rdfs:label "Q137427318"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q137427318 .
+
+:Q137427361 a :Athlete,
+        :Person ;
+    rdfs:label "Q137427361"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q137427361 .
+
+:Q137427402 a :Athlete,
+        :Person ;
+    rdfs:label "Q137427402"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q137427402 .
+
+:Q137427496 a :Athlete,
+        :Person ;
+    rdfs:label "Q137427496"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137427496 .
+
+:Q137427797 a :Athlete,
+        :Person ;
+    rdfs:label "Q137427797"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q137427797 .
+
+:Q137439662 a :Athlete,
+        :Person ;
+    rdfs:label "Q137439662"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q137439662 .
+
+:Q137439731 a :Athlete,
+        :Person ;
+    rdfs:label "Q137439731"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137439731 .
+
+:Q137439755 a :Athlete,
+        :Person ;
+    rdfs:label "Q137439755"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137439755 .
+
+:Q137439786 a :Athlete,
+        :Person ;
+    rdfs:label "Q137439786"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137439786 .
+
+:Q137439797 a :Athlete,
+        :Person ;
+    rdfs:label "Q137439797"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137439797 .
+
+:Q137439888 a :Athlete,
+        :Person ;
+    rdfs:label "Q137439888"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137439888 .
+
+:Q137442077 a :Athlete,
+        :Person ;
+    rdfs:label "Q137442077"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q137442077 .
+
+:Q137442123 a :Athlete,
+        :Person ;
+    rdfs:label "Q137442123"@en ;
+    :represents :KingdomoftheNetherlands ;
+    owl:sameAs wd:Q137442123 .
+
+:Q137442135 a :Athlete,
+        :Person ;
+    rdfs:label "Q137442135"@en ;
+    :represents :KingdomoftheNetherlands ;
+    owl:sameAs wd:Q137442135 .
+
+:Q137442401 a :Athlete,
+        :Person ;
+    rdfs:label "Q137442401"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137442401 .
+
+:Q137442441 a :Athlete,
+        :Person ;
+    rdfs:label "Q137442441"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137442441 .
+
+:Q137456231 a :Athlete,
+        :Person ;
+    rdfs:label "Q137456231"@en ;
+    :represents :Australia ;
+    owl:sameAs wd:Q137456231 .
+
+:Q137456295 a :Athlete,
+        :Person ;
+    rdfs:label "Q137456295"@en ;
+    :represents :Australia ;
+    owl:sameAs wd:Q137456295 .
+
+:Q137456346 a :Athlete,
+        :Person ;
+    rdfs:label "Q137456346"@en ;
+    :represents :Australia ;
+    owl:sameAs wd:Q137456346 .
+
+:Q137456384 a :Athlete,
+        :Person ;
+    rdfs:label "Q137456384"@en ;
+    :represents :Australia ;
+    owl:sameAs wd:Q137456384 .
+
+:Q137456723 a :Athlete,
+        :Person ;
+    rdfs:label "Q137456723"@en ;
+    :represents :Australia ;
+    owl:sameAs wd:Q137456723 .
+
+:Q137461165 a :Athlete,
+        :Person ;
+    rdfs:label "Q137461165"@en ;
+    :represents :Australia ;
+    owl:sameAs wd:Q137461165 .
+
+:Q137476805 a :Athlete,
+        :Person ;
+    rdfs:label "Q137476805"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137476805 .
+
+:Q137478001 a :Athlete,
+        :Person ;
+    rdfs:label "Q137478001"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137478001 .
+
+:Q137478395 a :Athlete,
+        :Person ;
+    rdfs:label "Q137478395"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137478395 .
+
+:Q137478433 a :Athlete,
+        :Person ;
+    rdfs:label "Q137478433"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137478433 .
+
+:Q137507359 a :Athlete,
+        :Person ;
+    rdfs:label "Q137507359"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137507359 .
+
+:Q137507404 a :Athlete,
+        :Person ;
+    rdfs:label "Q137507404"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q137507404 .
+
+:Q137507993 a :Athlete,
+        :Person ;
+    rdfs:label "Q137507993"@en ;
+    :represents :KingdomoftheNetherlands ;
+    owl:sameAs wd:Q137507993 .
+
+:QuChunyu a :Athlete,
+        :Person ;
+    rdfs:label "Qu Chunyu"@en ;
+    :represents <http://monprojet.org/sports/People'sRepublicofChina> ;
+    owl:sameAs wd:Q28047104 .
+
+:QuentinFercoq a :Athlete,
+        :Person ;
+    rdfs:label "Quentin Fercoq"@en ;
+    :represents :France ;
+    owl:sameAs wd:Q50323655 .
+
+:RafaelNadal a :Athlete,
+        :Person ;
+    rdfs:label "RafaelNadal"@en ;
+    :participatedIn :AustralianOpen2009,
+        :RolandGarros2005,
+        :RolandGarros2010,
+        :RolandGarros2022,
+        :USOpen2010 ;
+    :practicesSport :Tennis ;
+    :represents :Spain ;
+    :wonMedal :GoldMedal .
+
+:RebekaSziliczei-nemet a :Athlete,
+        :Person ;
+    rdfs:label "Rebeka Sziliczei-Nemet"@en ;
+    :represents :Hungary ;
+    owl:sameAs wd:Q50323388 .
+
+:ReiZulu a :Athlete,
+        :Person ;
+    rdfs:label "Rei Zulu"@en ;
+    :represents :Brazil ;
+    owl:sameAs wd:Q7309872 .
+
+:RinaYamana a :Athlete,
+        :Person ;
+    rdfs:label "Rina Yamana"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q50323407 .
+
+:RobertsKrūzbergs a :Athlete,
+        :Person ;
+    rdfs:label "Roberts Krūzbergs"@en ;
+    :represents :Latvia ;
+    owl:sameAs wd:Q46327505 .
+
+:RogerFederer a :Athlete,
+        :Person ;
+    rdfs:label "RogerFederer"@en ;
+    :participatedIn :AustralianOpen2004,
+        :USOpen2004,
+        :Wimbledon2003,
+        :Wimbledon2004,
+        :Wimbledon2012 ;
+    :practicesSport :Tennis ;
+    :represents :Switzerland ;
+    :wonMedal :GoldMedal .
+
+:RolandGarros a :Competition ;
+    rdfs:label "Roland Garros"@en ;
+    :represents :France ;
+    owl:sameAs wd:Q192785 .
+
+:SelmaPoutsma a :Athlete,
+        :Person ;
+    rdfs:label "Selma Poutsma"@en ;
+    :represents :KingdomoftheNetherlands ;
+    owl:sameAs wd:Q50323417 .
+
+:SeoYi-ra a :Athlete,
+        :Person ;
+    rdfs:label "Seo Yi-ra"@en ;
+    :represents :SouthKorea ;
+    owl:sameAs wd:Q28043030 .
+
+:SerenaWilliams a :Athlete,
+        :Person ;
+    rdfs:label "SerenaWilliams"@en ;
+    :participatedIn :AustralianOpen2015,
+        :USOpen2012,
+        :USOpen2014,
+        :Wimbledon2012,
+        :Wimbledon2015,
+        :Wimbledon2016 ;
+    :practicesSport :Tennis ;
+    :represents :UnitedStates ;
+    :wonMedal :GoldMedal .
+
+:ShervinSaedinia a :Athlete,
+        :Person ;
+    rdfs:label "Shervin Saedinia"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q122893824 .
+
+:ShinDong-min a :Athlete,
+        :Person ;
+    rdfs:label "Shin Dong-min"@en ;
+    :represents :SouthKorea ;
+    owl:sameAs wd:Q133835304 .
+
+:ShutaMatsudu a :Athlete,
+        :Person ;
+    rdfs:label "Shuta Matsudu"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q58381960 .
+
+:ShōgoMiyata a :Athlete,
+        :Person ;
+    rdfs:label "Shōgo Miyata"@en ;
+    :represents :Japan ;
+    owl:sameAs wd:Q81905482 .
+
+:SidneyChu a :Athlete,
+        :Person ;
+    rdfs:label "Sidney Chu"@en ;
+    :represents :HongKong ;
+    owl:sameAs wd:Q58389503 .
+
+:SimoneBiles a :Athlete,
+        :Person ;
+    rdfs:label "SimoneBiles"@en ;
+    :participatedIn :OlympicsParis2024,
+        :OlympicsRioDeJaneiro2016,
+        :OlympicsTokyo2020 ;
+    :practicesSport :Gymnastics ;
+    :represents :UnitedStates ;
+    :wonMedal :GoldMedal,
+        :SilverMedal .
+
+:SophiaGorham a :Athlete,
+        :Person ;
+    rdfs:label "Sophia Gorham"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q1551987 .
+
+:StevenDubois a :Athlete,
+        :Person ;
+    rdfs:label "Steven Dubois"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q58378864 .
+
+:StijnDesmet a :Athlete,
+        :Person ;
+    rdfs:label "Stijn Desmet"@en ;
+    :represents :Belgium ;
+    owl:sameAs wd:Q58382493 .
+
+:SáraBácskai a :Athlete,
+        :Person ;
+    rdfs:label "Sára Bácskai"@en ;
+    :represents :Hungary ;
+    owl:sameAs wd:Q46964887 .
+
+:TarquiniuPriscu a :Athlete,
+        :Person ;
+    rdfs:label "Tarquiniu Priscu"@en ;
+    :represents :Romania ;
+    owl:sameAs wd:Q132458393 .
+
+:TejiNizampur a :Athlete,
+        :Person ;
+    rdfs:label "Teji Nizampur"@en ;
+    :represents :India ;
+    owl:sameAs wd:Q120769169 .
+
+:ThomasNadalini a :Athlete,
+        :Person ;
+    rdfs:label "Thomas Nadalini"@en ;
+    :represents :Italy ;
+    owl:sameAs wd:Q81905665 .
+
+:TigerWoods a :Athlete,
+        :Person ;
+    rdfs:label "Tiger Woods"@en ;
+    :practicesSport :Golf ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q107348 .
+
+:TinekeDenDulk a :Athlete,
+        :Person ;
+    rdfs:label "Tineke den Dulk"@en ;
+    :represents :Belgium ;
+    owl:sameAs wd:Q57549148 .
+
+:TourDeFrance a :Competition ;
+    rdfs:label "Tour de France"@en ;
+    :represents :France ;
+    owl:sameAs wd:Q43255 .
+
+:TriciaSargent a :Athlete,
+        :Person ;
+    rdfs:label "Tricia Sargent"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q122893827 .
+
+:UEFAChampionsLeague a :Competition ;
+    rdfs:label "UEFA Champions League"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q212974 .
+
+:USOpenTennis a :Competition ;
+    rdfs:label "US Open Tennis"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q48800 .
+
+:UsainBolt a :Athlete,
+        :Person ;
+    rdfs:label "UsainBolt"@en ;
+    :participatedIn :OlympicsBeijing2008,
+        :OlympicsLondon2012,
+        :OlympicsRioDeJaneiro2016 ;
+    :practicesSport :Athletics ;
+    :represents :Jamaica ;
+    :wonMedal :GoldMedal .
+
+:ValentinaVezzali a :Athlete,
+        :Person ;
+    rdfs:label "Valentina Vezzali"@en ;
+    :practicesSport :Fencing ;
+    :represents :Italy ;
+    owl:sameAs wd:Q313746 .
+
+:VictoriaVaynberg a :Athlete,
+        :Person ;
+    rdfs:label "Victoria Vaynberg"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q122893803 .
+
+:WardPétré a :Athlete,
+        :Person ;
+    rdfs:label "Ward Pétré"@en ;
+    :represents :Belgium ;
+    owl:sameAs wd:Q47508219 .
+
+:WarreVanDamme a :Athlete,
+        :Person ;
+    rdfs:label "Warre Van Damme"@en ;
+    :represents :Belgium ;
+    owl:sameAs wd:Q81907826 .
+
+:Wei-MingLeong a :Athlete,
+        :Person ;
+    rdfs:label "Wei-Ming Leong"@en ;
+    :represents :Malaysia ;
+    owl:sameAs wd:Q122893806 .
+
+:WendyGoelz a :Athlete,
+        :Person ;
+    rdfs:label "Wendy Goelz"@en ;
+    :represents :UnitedStates ;
+    owl:sameAs wd:Q137478294 .
+
+:WilliamDandjinou a :Athlete,
+        :Person ;
+    rdfs:label "William Dandjinou"@en ;
+    :represents :Canada ;
+    owl:sameAs wd:Q57540790 .
+
+:WimbledonChampionships a :Competition ;
+    rdfs:label "Wimbledon Championships"@en ;
+    :represents :UnitedKingdom ;
+    owl:sameAs wd:Q52 .
+
+:XuPeng a :Athlete,
+        :Person ;
+    rdfs:label "Xu Peng"@en ;
+    :represents <http://monprojet.org/sports/People'sRepublicofChina> ;
+    owl:sameAs wd:Q27989794 .
+
+:YelizavetaKuznetsova a :Athlete,
+        :Person ;
+    rdfs:label "Yelizaveta Kuznetsova"@en ;
+    :represents :Russia ;
+    owl:sameAs wd:Q133839868 .
+
+:YerkebulanShamukhanov a :Athlete,
+        :Person ;
+    rdfs:label "Yerkebulan Shamukhanov"@en ;
+    :represents :Kazakhstan ;
+    owl:sameAs wd:Q48666944 .
+
+:ZangYize a :Athlete,
+        :Person ;
+    rdfs:label "Zang Yize"@en ;
+    :represents <http://monprojet.org/sports/People'sRepublicofChina> ;
+    owl:sameAs wd:Q28042119 .
+
+:ZeljkaJuricek a :Athlete,
+        :Person ;
+    rdfs:label "Zeljka Juricek"@en ;
+    :represents :Croatia ;
+    owl:sameAs wd:Q122893807 .
+
+:birthYear a owl:DatatypeProperty ;
+    rdfs:label "birthYear"@en ;
+    rdfs:comment "Année de naissance de l'athlète"@fr ;
+    rdfs:domain :Athlete ;
+    rdfs:range xsd:integer .
+
+:fullName a owl:DatatypeProperty ;
+    rdfs:label "fullName"@en ;
+    rdfs:comment "Nom complet"@fr ;
+    rdfs:domain :Person ;
+    rdfs:range xsd:string .
+
+:hasCompeted a owl:ObjectProperty ;
+    rdfs:label "hasCompeted"@en ;
+    rdfs:comment "L'athlète a concouru contre cet autre athlète (inféré SWRL)"@fr ;
+    rdfs:domain :Athlete ;
+    rdfs:range :Athlete .
+
+:hostedBy a owl:ObjectProperty ;
+    rdfs:label "hostedBy"@en ;
+    rdfs:comment "La compétition est organisée par ce pays"@fr ;
+    rdfs:domain :Competition ;
+    rdfs:range :Country .
+
+:locatedIn a owl:ObjectProperty ;
+    rdfs:label "locatedIn"@en ;
+    rdfs:comment "La compétition se déroule dans cette ville"@fr ;
+    rdfs:domain :Competition ;
+    rdfs:range :City .
+
+:memberOfTeam a owl:ObjectProperty ;
+    rdfs:label "memberOfTeam"@en ;
+    rdfs:comment "L'athlète est membre de cette équipe"@fr ;
+    rdfs:domain :Athlete ;
+    rdfs:range :Team ;
+    owl:equivalentProperty <http://www.wikidata.org/prop/direct/P54> .
+
+:multiMedalist a owl:ObjectProperty ;
+    rdfs:label "multiMedalist"@en ;
+    rdfs:comment "L'athlète a remporté plusieurs types de médailles (inféré SWRL)"@fr ;
+    rdfs:domain :Athlete ;
+    rdfs:range :Medal .
+
+:ontologie a owl:Ontology ;
+    rdfs:label "Sports & Competitions Ontology"@en ;
+    rdfs:comment "Ontologie pour les sportifs, compétitions, disciplines et palmarès."@fr .
+
+:participatedIn a owl:ObjectProperty ;
+    rdfs:label "participatedIn"@en ;
+    rdfs:comment "L'athlète a participé à cette compétition"@fr ;
+    rdfs:domain :Athlete ;
+    rdfs:range :Competition ;
+    owl:equivalentProperty <http://www.wikidata.org/prop/direct/P1344> .
+
+:practicesSport a owl:ObjectProperty ;
+    rdfs:label "practicesSport"@en ;
+    rdfs:comment "L'athlète pratique ce sport"@fr ;
+    rdfs:domain :Athlete ;
+    rdfs:range :Sport ;
+    owl:equivalentProperty <http://www.wikidata.org/prop/direct/P641> .
+
+:represents a owl:ObjectProperty ;
+    rdfs:label "represents"@en ;
+    rdfs:comment "L'athlète représente ce pays"@fr ;
+    rdfs:domain :Athlete ;
+    rdfs:range :Country ;
+    owl:equivalentProperty <http://www.wikidata.org/prop/direct/P27> .
+
+:sameNationality a owl:ObjectProperty ;
+    rdfs:label "sameNationality"@en ;
+    rdfs:comment "Les deux athlètes représentent le même pays (inféré SWRL)"@fr ;
+    rdfs:domain :Athlete ;
+    rdfs:range :Athlete .
+
+:teamRepresents a owl:ObjectProperty ;
+    rdfs:label "teamRepresents"@en ;
+    rdfs:comment "L'équipe représente ce pays"@fr ;
+    rdfs:domain :Team ;
+    rdfs:range :Country .
+
+:wonMedal a owl:ObjectProperty ;
+    rdfs:label "wonMedal"@en ;
+    rdfs:comment "L'athlète a remporté cette médaille"@fr ;
+    rdfs:domain :Athlete ;
+    rdfs:range :Medal ;
+    owl:equivalentProperty <http://www.wikidata.org/prop/direct/P166> .
+
+:year a owl:DatatypeProperty ;
+    rdfs:label "year"@en ;
+    rdfs:comment "Année de la compétition"@fr ;
+    rdfs:domain :Competition ;
+    rdfs:range xsd:integer .
+
+:ArgentinaFootballTeam a :Team ;
+    rdfs:label "ArgentinaFootballTeam"@en ;
+    :teamRepresents :Argentina .
+
+:Athens a :City ;
+    rdfs:label "Athens"@en .
+
+:AustralianOpen2004 a :Competition ;
+    rdfs:label "AustralianOpen2004"@en ;
+    :hostedBy :Australia ;
+    :locatedIn :Melbourne ;
+    :year 2004 .
+
+:AustralianOpen2008 a :Competition ;
+    rdfs:label "AustralianOpen2008"@en ;
+    :hostedBy :Australia ;
+    :locatedIn :Melbourne ;
+    :year 2008 .
+
+:AustralianOpen2009 a :Competition ;
+    rdfs:label "AustralianOpen2009"@en ;
+    :hostedBy :Australia ;
+    :locatedIn :Melbourne ;
+    :year 2009 .
+
+:AustralianOpen2015 a :Competition ;
+    rdfs:label "AustralianOpen2015"@en ;
+    :hostedBy :Australia ;
+    :locatedIn :Melbourne ;
+    :year 2015 .
+
+:AustralianOpen2019 a :Competition ;
+    rdfs:label "AustralianOpen2019"@en ;
+    :hostedBy :Australia ;
+    :locatedIn :Melbourne ;
+    :year 2019 .
+
+:Belarus a :Country .
+
+:BerlinMarathon2018 a :Competition ;
+    rdfs:label "BerlinMarathon2018"@en ;
+    :hostedBy :Germany ;
+    :locatedIn :Berlin ;
+    :year 2018 .
+
+:Boxing a :Sport ;
+    rdfs:label "Boxing"@en .
+
+:Brasilia a :City ;
+    rdfs:label "Brasilia"@en .
+
+:CapeTown a :City ;
+    rdfs:label "Cape Town"@en .
+
+:Croatia a :Country .
+
+:CzechRepublic a :Country .
+
+:Doha a :City ;
+    rdfs:label "Doha"@en .
+
+:Fencing a :Sport ;
+    rdfs:label "Fencing"@en .
+
+:FranceFootballTeam a :Team ;
+    rdfs:label "FranceFootballTeam"@en ;
+    :teamRepresents :France .
+
+:Golf a :Sport ;
+    rdfs:label "Golf"@en .
+
+:Greece a :Country ;
+    rdfs:label "Greece"@en .
+
+:HongKong a :Country .
+
+:Jamaica a :Country ;
+    rdfs:label "Jamaica"@en .
+
+:Kenya a :Country ;
+    rdfs:label "Kenya"@en .
+
+:Malaysia a :Country .
+
+:Morocco a :Country .
+
+:PortugalFootballTeam a :Team ;
+    rdfs:label "PortugalFootballTeam"@en ;
+    :teamRepresents :Portugal .
+
+:RiodeJaneiro a :City ;
+    rdfs:label "Rio de Janeiro"@en .
+
+:RolandGarros2005 a :Competition ;
+    rdfs:label "RolandGarros2005"@en ;
+    :hostedBy :France ;
+    :locatedIn :Paris ;
+    :year 2005 .
+
+:RolandGarros2010 a :Competition ;
+    rdfs:label "RolandGarros2010"@en ;
+    :hostedBy :France ;
+    :locatedIn :Paris ;
+    :year 2010 .
+
+:RolandGarros2016 a :Competition ;
+    rdfs:label "RolandGarros2016"@en ;
+    :hostedBy :France ;
+    :locatedIn :Paris ;
+    :year 2016 .
+
+:RolandGarros2022 a :Competition ;
+    rdfs:label "RolandGarros2022"@en ;
+    :hostedBy :France ;
+    :locatedIn :Paris ;
+    :year 2022 .
+
+:Serbia a :Country ;
+    rdfs:label "Serbia"@en .
+
+:SouthAfrica a :Country ;
+    rdfs:label "SouthAfrica"@en .
+
+:Spain a :Country ;
+    rdfs:label "Spain"@en .
+
+:Swimming a :Sport ;
+    rdfs:label "Swimming"@en .
+
+:Switzerland a :Country ;
+    rdfs:label "Switzerland"@en .
+
+:Taiwan a :Country .
+
+:Tokyo a :City ;
+    rdfs:label "Tokyo"@en .
+
+:USABasketballTeam a :Team ;
+    rdfs:label "USABasketballTeam"@en .
+
+:USOpen2004 a :Competition ;
+    rdfs:label "USOpen2004"@en ;
+    :hostedBy :UnitedStates ;
+    :locatedIn :NewYork ;
+    :year 2004 .
+
+:USOpen2010 a :Competition ;
+    rdfs:label "USOpen2010"@en ;
+    :hostedBy :UnitedStates ;
+    :locatedIn :NewYork ;
+    :year 2010 .
+
+:USOpen2012 a :Competition ;
+    rdfs:label "USOpen2012"@en ;
+    :hostedBy :UnitedStates ;
+    :locatedIn :NewYork ;
+    :year 2012 .
+
+:USOpen2014 a :Competition ;
+    rdfs:label "USOpen2014"@en ;
+    :hostedBy :UnitedStates ;
+    :locatedIn :NewYork ;
+    :year 2014 .
+
+:USOpen2015 a :Competition ;
+    rdfs:label "USOpen2015"@en ;
+    :hostedBy :UnitedStates ;
+    :locatedIn :NewYork ;
+    :year 2015 .
+
+:Wimbledon2003 a :Competition ;
+    rdfs:label "Wimbledon2003"@en ;
+    :hostedBy :UnitedKingdom ;
+    :locatedIn :London ;
+    :year 2003 .
+
+:Wimbledon2004 a :Competition ;
+    rdfs:label "Wimbledon2004"@en ;
+    :hostedBy :UnitedKingdom ;
+    :locatedIn :London ;
+    :year 2004 .
+
+:Wimbledon2014 a :Competition ;
+    rdfs:label "Wimbledon2014"@en ;
+    :hostedBy :UnitedKingdom ;
+    :locatedIn :London ;
+    :year 2014 .
+
+:Wimbledon2015 a :Competition ;
+    rdfs:label "Wimbledon2015"@en ;
+    :hostedBy :UnitedKingdom ;
+    :locatedIn :London ;
+    :year 2015 .
+
+:Wimbledon2016 a :Competition ;
+    rdfs:label "Wimbledon2016"@en ;
+    :hostedBy :UnitedKingdom ;
+    :locatedIn :London ;
+    :year 2016 .
+
+:WorldAthleticsChampionships2013 a :Competition ;
+    rdfs:label "WorldAthleticsChampionships2013"@en ;
+    :hostedBy :Russia ;
+    :locatedIn :Moscow ;
+    :year 2013 .
+
+:Argentina a :Country ;
+    rdfs:label "Argentina"@en .
+
+:Basketball a :Sport ;
+    rdfs:label "Basketball"@en .
+
+:Beijing a :City ;
+    rdfs:label "Beijing"@en .
+
+:Berlin a :City ;
+    rdfs:label "Berlin"@en .
+
+:BronzeMedal a :BronzeMedal,
+        :Medal,
+        owl:Class ;
+    rdfs:label "Bronze Medal"@en,
+        "BronzeMedal"@en ;
+    rdfs:subClassOf :Medal .
+
+:China a :Country ;
+    rdfs:label "China"@en .
+
+:FIFAWorldCup2006 a :Competition ;
+    rdfs:label "FIFAWorldCup2006"@en ;
+    :hostedBy :Germany ;
+    :locatedIn :Berlin ;
+    :year 2006 .
+
+:FIFAWorldCup2010 a :Competition ;
+    rdfs:label "FIFAWorldCup2010"@en ;
+    :hostedBy :SouthAfrica ;
+    :locatedIn :CapeTown ;
+    :year 2010 .
+
+:FIFAWorldCup2014 a :Competition ;
+    rdfs:label "FIFAWorldCup2014"@en ;
+    :hostedBy :Brazil ;
+    :locatedIn :Brasilia ;
+    :year 2014 .
+
+:Gymnastics a :Sport ;
+    rdfs:label "Gymnastics"@en .
+
+:India a :Country .
+
+:Latvia a :Country .
+
+:Moscow a :City ;
+    rdfs:label "Moscow"@en .
+
+:OlympicsAthens2004 a :Competition ;
+    rdfs:label "OlympicsAthens2004"@en ;
+    :hostedBy :Greece ;
+    :locatedIn :Athens ;
+    :year 2004 .
+
+:OlympicsTokyo2020 a :Competition ;
+    rdfs:label "OlympicsTokyo2020"@en ;
+    :hostedBy :Japan ;
+    :locatedIn :Tokyo ;
+    :year 2021 .
+
+:Portugal a :Country ;
+    rdfs:label "Portugal"@en .
+
+:Qatar a :Country ;
+    rdfs:label "Qatar"@en .
+
+:Romania a :Country ;
+    rdfs:label "Romania"@en .
+
+:Wimbledon2012 a :Competition ;
+    rdfs:label "Wimbledon2012"@en ;
+    :hostedBy :UnitedKingdom ;
+    :locatedIn :London ;
+    :year 2012 .
+
+:FIFAWorldCup2018 a :Competition ;
+    rdfs:label "FIFAWorldCup2018"@en ;
+    :hostedBy :Russia ;
+    :locatedIn :Moscow ;
+    :year 2018 .
+
+:FIFAWorldCup2022 a :Competition ;
+    rdfs:label "FIFAWorldCup2022"@en ;
+    :hostedBy :Qatar ;
+    :locatedIn :Doha ;
+    :year 2022 .
+
+:Kazakhstan a :Country .
+
+:Norway a :Country .
+
+:OlympicsParis2024 a :Competition ;
+    rdfs:label "OlympicsParis2024"@en ;
+    :hostedBy :France ;
+    :locatedIn :Paris ;
+    :year 2024 .
+
+:SilverMedal a :Medal,
+        :SilverMedal,
+        owl:Class ;
+    rdfs:label "Silver Medal"@en,
+        "SilverMedal"@en ;
+    rdfs:subClassOf :Medal .
+
+:Athletics a :Sport ;
+    rdfs:label "Athletics"@en .
+
+:Hungary a :Country .
+
+:OlympicsBeijing2008 a :Competition ;
+    rdfs:label "OlympicsBeijing2008"@en ;
+    :hostedBy :China ;
+    :locatedIn :Beijing ;
+    :year 2008 .
+
+:OlympicsLondon2012 a :Competition ;
+    rdfs:label "OlympicsLondon2012"@en ;
+    :hostedBy :UnitedKingdom ;
+    :locatedIn :London ;
+    :year 2012 .
+
+:Poland a :Country .
+
+:Tennis a :Sport ;
+    rdfs:label "Tennis"@en .
+
+:Football a :Sport ;
+    rdfs:label "Football"@en .
+
+:Melbourne a :City ;
+    rdfs:label "Melbourne"@en .
+
+:NewYork a :City ;
+    rdfs:label "New York"@en .
+
+:OlympicsRioDeJaneiro2016 a :Competition ;
+    rdfs:label "OlympicsRioDeJaneiro2016"@en ;
+    :hostedBy :Brazil ;
+    :locatedIn :RiodeJaneiro ;
+    :year 2016 .
+
+:Paris a :City ;
+    rdfs:label "Paris"@en .
+
+:SouthKorea a :Country .
+
+:Germany a :Country ;
+    rdfs:label "Germany"@en .
+
+<http://monprojet.org/sports/People'sRepublicofChina> a :Country .
+
+:Belgium a :Country .
+
+:Brazil a :Country ;
+    rdfs:label "Brazil"@en .
+
+:London a :City ;
+    rdfs:label "London"@en .
+
+:Russia a :Country ;
+    rdfs:label "Russia"@en .
+
+:Medal a owl:Class ;
+    rdfs:label "Medal"@en ;
+    rdfs:comment "Médaille (or, argent, bronze)"@fr .
+
+:Team a owl:Class ;
+    rdfs:label "Team"@en ;
+    rdfs:comment "Équipe sportive nationale ou de club"@fr .
+
+:Italy a :Country ;
+    rdfs:label "Italy"@en .
+
+:Sport a owl:Class ;
+    rdfs:label "Sport"@en ;
+    rdfs:comment "Discipline sportive"@fr .
+
+:City a owl:Class ;
+    rdfs:label "City"@en ;
+    rdfs:comment "Ville hôte d'une compétition"@fr .
+
+:GoldMedal a :GoldMedal,
+        :Medal,
+        owl:Class ;
+    rdfs:label "Gold Medal"@en,
+        "GoldMedal"@en ;
+    rdfs:subClassOf :Medal .
+
+:KingdomoftheNetherlands a :Country .
+
+:France a :Country ;
+    rdfs:label "France"@en .
+
+:Australia a :Country ;
+    rdfs:label "Australia"@en .
+
+:Canada a :Country .
+
+:Japan a :Country ;
+    rdfs:label "Japan"@en .
+
+:UnitedKingdom a :Country ;
+    rdfs:label "UnitedKingdom"@en .
+
+:Country a owl:Class ;
+    rdfs:label "Country"@en ;
+    rdfs:comment "Pays ou nation"@fr .
+
+:Competition a owl:Class ;
+    rdfs:label "Competition"@en ;
+    rdfs:comment "Événement sportif (JO, Coupe du Monde, tournoi…)"@fr .
+
+:UnitedStates a :Country ;
+    rdfs:label "UnitedStates"@en .
+
+:Person a owl:Class ;
+    rdfs:label "Person"@en ;
+    rdfs:comment "Être humain (classe parente)"@fr .
+
+:Athlete a owl:Class ;
+    rdfs:label "Athlete"@en ;
+    rdfs:comment "Sportif ou sportive de compétition"@fr ;
+    rdfs:subClassOf :Person .
+

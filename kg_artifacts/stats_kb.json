@@ -1,0 +1,15 @@
+{
+  "total_triplets": 125105,
+  "nb_triplets": 125105,
+  "nb_entities": 3182,
+  "nb_relations": 2541,
+  "source": "knowledge_base_expanded.ttl",
+  "phase": "Phase 4 — KB étendue",
+  "nb_sujets_uniques": 3182,
+  "nb_objets_urefs": 29586,
+  "nb_predicats": 2541,
+  "triplets_ajoutes_1hop": 5698,
+  "triplets_ajoutes_2hop": 4471,
+  "triplets_ajoutes_discipline": 110508,
+  "triplets_initiaux": 1640
+}

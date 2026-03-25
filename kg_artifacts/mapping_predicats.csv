@@ -1,0 +1,10 @@
+predicat_prive,wikidata_property,wikidata_label,type_alignement,notes
+hostedBy,http://www.wikidata.org/prop/direct/P17,P17 — country,rdfs:subPropertyOf,P17 est plus général (pays d'une entité) — sous-propriété conservatrice
+locatedIn,http://www.wikidata.org/prop/direct/P276,P276 — location,owl:equivalentProperty,Lieu d'un événement
+memberOfTeam,http://www.wikidata.org/prop/direct/P54,P54 — member of sports team,owl:equivalentProperty,Correspondance exacte
+participatedIn,http://www.wikidata.org/prop/direct/P1344,P1344 — participant in,owl:equivalentProperty,Correspondance exacte
+practicesSport,http://www.wikidata.org/prop/direct/P641,P641 — sport,owl:equivalentProperty,Correspondance exacte
+represents,http://www.wikidata.org/prop/direct/P27,P27 — country of citizenship,owl:equivalentProperty,"Dans le contexte sportif, représente le pays de compétition"
+teamRepresents,http://www.wikidata.org/prop/direct/P17,P17 — country,rdfs:subPropertyOf,Sous-propriété spécialisée pour les équipes sportives
+wonMedal,http://www.wikidata.org/prop/direct/P166,P166 — award received,owl:equivalentProperty,Wikidata P166 couvre les prix et médailles
+year,http://www.wikidata.org/entity/P574,year of publication of scientific name for taxon,rdfs:subPropertyOf (à vérifier manuellement),Trouvé via SPARQL — vérifier la pertinence

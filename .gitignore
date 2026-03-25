@@ -1,0 +1,38 @@
+# Clés API — ne JAMAIS committer
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Données volumineuses (optionnel — décommenter si besoin)
+# kb/knowledge_base_expanded.ttl
+# kge/train.txt
+# kge/valid.txt
+# kge/test.txt
+
+# Modèles PyKEEN (peuvent être lourds)
+kge/results/*/
+
+# Logs
+*.log

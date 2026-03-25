@@ -1,0 +1,13 @@
+{
+  "modele": "DistMult",
+  "entites_par_classe": {
+    "Wikidata": 2922,
+    "Autre": 56,
+    "Country": 5,
+    "Competition": 7,
+    "City": 3,
+    "Medal": 1,
+    "Athlete": 4,
+    "Sport": 2
+  }
+}

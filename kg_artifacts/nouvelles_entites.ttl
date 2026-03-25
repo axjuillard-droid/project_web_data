@@ -1,0 +1,103 @@
+@prefix : <http://monprojet.org/sports/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+:AustralianOpen2004 a :Competition ;
+    rdfs:label "AustralianOpen2004"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:AustralianOpen2008 a :Competition ;
+    rdfs:label "AustralianOpen2008"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:AustralianOpen2009 a :Competition ;
+    rdfs:label "AustralianOpen2009"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:AustralianOpen2015 a :Competition ;
+    rdfs:label "AustralianOpen2015"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:AustralianOpen2019 a :Competition ;
+    rdfs:label "AustralianOpen2019"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:BerlinMarathon2018 a :Competition ;
+    rdfs:label "BerlinMarathon2018"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:FIFAWorldCup2006 a :Competition ;
+    rdfs:label "FIFAWorldCup2006"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:FIFAWorldCup2010 a :Competition ;
+    rdfs:label "FIFAWorldCup2010"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:OlympicsAthens2004 a :Competition ;
+    rdfs:label "OlympicsAthens2004"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:RolandGarros2005 a :Competition ;
+    rdfs:label "RolandGarros2005"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:RolandGarros2010 a :Competition ;
+    rdfs:label "RolandGarros2010"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:RolandGarros2016 a :Competition ;
+    rdfs:label "RolandGarros2016"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:RolandGarros2022 a :Competition ;
+    rdfs:label "RolandGarros2022"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:USOpen2004 a :Competition ;
+    rdfs:label "USOpen2004"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:USOpen2010 a :Competition ;
+    rdfs:label "USOpen2010"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:USOpen2012 a :Competition ;
+    rdfs:label "USOpen2012"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:USOpen2014 a :Competition ;
+    rdfs:label "USOpen2014"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:USOpen2015 a :Competition ;
+    rdfs:label "USOpen2015"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:Wimbledon2003 a :Competition ;
+    rdfs:label "Wimbledon2003"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:Wimbledon2004 a :Competition ;
+    rdfs:label "Wimbledon2004"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:Wimbledon2012 a :Competition ;
+    rdfs:label "Wimbledon2012"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:Wimbledon2014 a :Competition ;
+    rdfs:label "Wimbledon2014"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:Wimbledon2015 a :Competition ;
+    rdfs:label "Wimbledon2015"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:Wimbledon2016 a :Competition ;
+    rdfs:label "Wimbledon2016"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+
+:WorldAthleticsChampionships2013 a :Competition ;
+    rdfs:label "WorldAthleticsChampionships2013"@en ;
+    rdfs:comment "Entité non trouvée dans Wikidata — définie sémantiquement"@fr .
+

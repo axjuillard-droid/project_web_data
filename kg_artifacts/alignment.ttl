@@ -1,0 +1,448 @@
+@prefix : <http://monprojet.org/sports/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+
+:2012SummerOlympics owl:sameAs wd:Q8567 .
+
+:2014FifaWorldCup owl:sameAs wd:Q20149 .
+
+:2016SummerOlympics owl:sameAs wd:Q8567 .
+
+:2018FifaWorldCup owl:sameAs wd:Q38717 .
+
+:2020SummerOlympics owl:sameAs wd:Q8567 .
+
+:2022FifaWorldCup owl:sameAs wd:Q20771 .
+
+:2024SummerOlympics owl:sameAs wd:Q193078 .
+
+:AlexSirac owl:sameAs wd:Q47472326 .
+
+:AlexaKonstand owl:sameAs wd:Q122893822 .
+
+:AliThorell owl:sameAs wd:Q122893813 .
+
+:AndreaCassinelli owl:sameAs wd:Q43340889 .
+
+:AngelinaTarasova owl:sameAs wd:Q133838997 .
+
+:AnitaNagay owl:sameAs wd:Q133839252 .
+
+:AnneMagellan owl:sameAs wd:Q122893800 .
+
+:ArisaGo owl:sameAs wd:Q27865869 .
+
+:AurélieLévêque owl:sameAs wd:Q105076799 .
+
+:AustralianOpen owl:sameAs wd:Q120918 .
+
+:BostonMarathon owl:sameAs wd:Q55494 .
+
+:BramSteenaart owl:sameAs wd:Q50330323 .
+
+:BrendaWebster owl:sameAs wd:Q47545703 .
+
+:CarlLewis owl:sameAs wd:Q12725 .
+
+:CatherineZawadzki owl:sameAs wd:Q122893804 .
+
+:ConstanceLevivier owl:sameAs wd:Q127421341 .
+
+:CorinneStoddard owl:sameAs wd:Q58367393 .
+
+:CornelisMoerman owl:sameAs wd:Q2983880 .
+
+:CynthiaMascitto owl:sameAs wd:Q49494438 .
+
+:DanaéBlais owl:sameAs wd:Q50323396 .
+
+:DanielTiborcz owl:sameAs wd:Q57541994 .
+
+:DanielaKaluskova owl:sameAs wd:Q122893821 .
+
+:EirikAndersen owl:sameAs wd:Q137189608 .
+
+:ElisaConfortola owl:sameAs wd:Q81902373 .
+
+:FrisoEmons owl:sameAs wd:Q50323519 .
+
+:FélixPigeon owl:sameAs wd:Q81906173 .
+
+:GabrielVolet owl:sameAs wd:Q81907956 .
+
+:GaryGriffin owl:sameAs wd:Q17305979 .
+
+:GemmaCooper owl:sameAs wd:Q50396685 .
+
+:GioyaLancee owl:sameAs wd:Q81496523 .
+
+:HanaTakahashi owl:sameAs wd:Q57887947 .
+
+:HarjeetBrarBajakhana owl:sameAs wd:Q5658064 .
+
+:HarunaNagamori owl:sameAs wd:Q81905669 .
+
+:HirokiYokoyama owl:sameAs wd:Q44699861 .
+
+:HuangYu-ting owl:sameAs wd:Q48551527 .
+
+:HwangDae-heon owl:sameAs wd:Q41532727 .
+
+:IanQuinn owl:sameAs wd:Q105765673 .
+
+:JangSung-woo owl:sameAs wd:Q81903914 .
+
+:JegorDomoratskij owl:sameAs wd:Q109335865 .
+
+<http://monprojet.org/sports/JensVan'tWout> owl:sameAs wd:Q105151424 .
+
+:JessicaSchlosser owl:sameAs wd:Q122893816 .
+
+:JuliaMoore owl:sameAs wd:Q133843237 .
+
+:KamilaSellier owl:sameAs wd:Q50323631 .
+
+:KathleenReady owl:sameAs wd:Q122893802 .
+
+:KatiaColturi owl:sameAs wd:Q45369895 .
+
+:KatiaFilippi owl:sameAs wd:Q81902889 .
+
+:KayHuisman owl:sameAs wd:Q57549830 .
+
+:KazukiYoshinaga owl:sameAs wd:Q44700607 .
+
+:KendylSeverino owl:sameAs wd:Q122893810 .
+
+:KeriMorrison owl:sameAs wd:Q47507696 .
+
+:KimiGoetz owl:sameAs wd:Q80760501 .
+
+:KristenSantos-griswold owl:sameAs wd:Q58368749 .
+
+:KristineBechHolte owl:sameAs wd:Q122893819 .
+
+:KylianMbappé owl:sameAs wd:Q180617 .
+
+:KārlisKrūzbergs owl:sameAs wd:Q133837878 .
+
+:LisaEckstein owl:sameAs wd:Q57609547 .
+
+:MaWei owl:sameAs wd:Q133837523 .
+
+:MandyHorsepool owl:sameAs wd:Q47530979 .
+
+:MarcinKamiński owl:sameAs wd:Q138608761 .
+
+:MarionCharlier owl:sameAs wd:Q122893814 .
+
+:MariuszBrzeziak owl:sameAs wd:Q138608814 .
+
+:MartiniusElvebakken owl:sameAs wd:Q133850792 .
+
+:MashaKabanova owl:sameAs wd:Q122893820 .
+
+<http://monprojet.org/sports/MelleVan'tWout> owl:sameAs wd:Q57540714 .
+
+:MichaelJordan owl:sameAs wd:Q168523 .
+
+:MichelleVelzeboer owl:sameAs wd:Q81907900 .
+
+:MoritzKreuseler owl:sameAs wd:Q133850543 .
+
+:MuhammadAli owl:sameAs wd:Q1254 .
+
+:NadiaComaneci owl:sameAs wd:Q12823 .
+
+:NatalieAckerman owl:sameAs wd:Q122893817 .
+
+:NiallTreacy owl:sameAs wd:Q58379404 .
+
+:NielsKingma owl:sameAs wd:Q57541851 .
+
+:NikolaMazur owl:sameAs wd:Q58366935 .
+
+:OdinByFarstad owl:sameAs wd:Q52206730 .
+
+:PascalDion owl:sameAs wd:Q43388742 .
+
+:PatDurnin owl:sameAs wd:Q47531095 .
+
+:PavelSitnikov owl:sameAs wd:Q48333077 .
+
+:PearlyLeung owl:sameAs wd:Q122893809 .
+
+:Pelé owl:sameAs wd:Q36819 .
+
+:PetraVaňková owl:sameAs wd:Q58369073 .
+
+:PéterJászapáti owl:sameAs wd:Q81903928 .
+
+:Q133752835 owl:sameAs wd:Q133752835 .
+
+:Q136759786 owl:sameAs wd:Q136759786 .
+
+:Q136762889 owl:sameAs wd:Q136762889 .
+
+:Q136780882 owl:sameAs wd:Q136780882 .
+
+:Q136784691 owl:sameAs wd:Q136784691 .
+
+:Q137285557 owl:sameAs wd:Q137285557 .
+
+:Q137285610 owl:sameAs wd:Q137285610 .
+
+:Q137285841 owl:sameAs wd:Q137285841 .
+
+:Q137285878 owl:sameAs wd:Q137285878 .
+
+:Q137285904 owl:sameAs wd:Q137285904 .
+
+:Q137285917 owl:sameAs wd:Q137285917 .
+
+:Q137286073 owl:sameAs wd:Q137286073 .
+
+:Q137286084 owl:sameAs wd:Q137286084 .
+
+:Q137286149 owl:sameAs wd:Q137286149 .
+
+:Q137290278 owl:sameAs wd:Q137290278 .
+
+:Q137290631 owl:sameAs wd:Q137290631 .
+
+:Q137290678 owl:sameAs wd:Q137290678 .
+
+:Q137292696 owl:sameAs wd:Q137292696 .
+
+:Q137297807 owl:sameAs wd:Q137297807 .
+
+:Q137297983 owl:sameAs wd:Q137297983 .
+
+:Q137298021 owl:sameAs wd:Q137298021 .
+
+:Q137298043 owl:sameAs wd:Q137298043 .
+
+:Q137298135 owl:sameAs wd:Q137298135 .
+
+:Q137298250 owl:sameAs wd:Q137298250 .
+
+:Q137298303 owl:sameAs wd:Q137298303 .
+
+:Q137298368 owl:sameAs wd:Q137298368 .
+
+:Q137298472 owl:sameAs wd:Q137298472 .
+
+:Q137299366 owl:sameAs wd:Q137299366 .
+
+:Q137299382 owl:sameAs wd:Q137299382 .
+
+:Q137299476 owl:sameAs wd:Q137299476 .
+
+:Q137299520 owl:sameAs wd:Q137299520 .
+
+:Q137299545 owl:sameAs wd:Q137299545 .
+
+:Q137299689 owl:sameAs wd:Q137299689 .
+
+:Q137321858 owl:sameAs wd:Q137321858 .
+
+:Q137322048 owl:sameAs wd:Q137322048 .
+
+:Q137322232 owl:sameAs wd:Q137322232 .
+
+:Q137322324 owl:sameAs wd:Q137322324 .
+
+:Q137322380 owl:sameAs wd:Q137322380 .
+
+:Q137322394 owl:sameAs wd:Q137322394 .
+
+:Q137322416 owl:sameAs wd:Q137322416 .
+
+:Q137322623 owl:sameAs wd:Q137322623 .
+
+:Q137322820 owl:sameAs wd:Q137322820 .
+
+:Q137322859 owl:sameAs wd:Q137322859 .
+
+:Q137351621 owl:sameAs wd:Q137351621 .
+
+:Q137351657 owl:sameAs wd:Q137351657 .
+
+:Q137351698 owl:sameAs wd:Q137351698 .
+
+:Q137351706 owl:sameAs wd:Q137351706 .
+
+:Q137351714 owl:sameAs wd:Q137351714 .
+
+:Q137351741 owl:sameAs wd:Q137351741 .
+
+:Q137365112 owl:sameAs wd:Q137365112 .
+
+:Q137365726 owl:sameAs wd:Q137365726 .
+
+:Q137366326 owl:sameAs wd:Q137366326 .
+
+:Q137366677 owl:sameAs wd:Q137366677 .
+
+:Q137366691 owl:sameAs wd:Q137366691 .
+
+:Q137366712 owl:sameAs wd:Q137366712 .
+
+:Q137366720 owl:sameAs wd:Q137366720 .
+
+:Q137366747 owl:sameAs wd:Q137366747 .
+
+:Q137366777 owl:sameAs wd:Q137366777 .
+
+:Q137427217 owl:sameAs wd:Q137427217 .
+
+:Q137427253 owl:sameAs wd:Q137427253 .
+
+:Q137427318 owl:sameAs wd:Q137427318 .
+
+:Q137427361 owl:sameAs wd:Q137427361 .
+
+:Q137427402 owl:sameAs wd:Q137427402 .
+
+:Q137427496 owl:sameAs wd:Q137427496 .
+
+:Q137427797 owl:sameAs wd:Q137427797 .
+
+:Q137439662 owl:sameAs wd:Q137439662 .
+
+:Q137439731 owl:sameAs wd:Q137439731 .
+
+:Q137439755 owl:sameAs wd:Q137439755 .
+
+:Q137439786 owl:sameAs wd:Q137439786 .
+
+:Q137439797 owl:sameAs wd:Q137439797 .
+
+:Q137439888 owl:sameAs wd:Q137439888 .
+
+:Q137442077 owl:sameAs wd:Q137442077 .
+
+:Q137442123 owl:sameAs wd:Q137442123 .
+
+:Q137442135 owl:sameAs wd:Q137442135 .
+
+:Q137442401 owl:sameAs wd:Q137442401 .
+
+:Q137442441 owl:sameAs wd:Q137442441 .
+
+:Q137456231 owl:sameAs wd:Q137456231 .
+
+:Q137456295 owl:sameAs wd:Q137456295 .
+
+:Q137456346 owl:sameAs wd:Q137456346 .
+
+:Q137456384 owl:sameAs wd:Q137456384 .
+
+:Q137456723 owl:sameAs wd:Q137456723 .
+
+:Q137461165 owl:sameAs wd:Q137461165 .
+
+:Q137476805 owl:sameAs wd:Q137476805 .
+
+:Q137478001 owl:sameAs wd:Q137478001 .
+
+:Q137478395 owl:sameAs wd:Q137478395 .
+
+:Q137478433 owl:sameAs wd:Q137478433 .
+
+:Q137507359 owl:sameAs wd:Q137507359 .
+
+:Q137507404 owl:sameAs wd:Q137507404 .
+
+:Q137507993 owl:sameAs wd:Q137507993 .
+
+:QuChunyu owl:sameAs wd:Q28047104 .
+
+:QuentinFercoq owl:sameAs wd:Q50323655 .
+
+:RebekaSziliczei-nemet owl:sameAs wd:Q50323388 .
+
+:ReiZulu owl:sameAs wd:Q7309872 .
+
+:RinaYamana owl:sameAs wd:Q50323407 .
+
+:RobertsKrūzbergs owl:sameAs wd:Q46327505 .
+
+:RolandGarros owl:sameAs wd:Q192785 .
+
+:SelmaPoutsma owl:sameAs wd:Q50323417 .
+
+:SeoYi-ra owl:sameAs wd:Q28043030 .
+
+:ShervinSaedinia owl:sameAs wd:Q122893824 .
+
+:ShinDong-min owl:sameAs wd:Q133835304 .
+
+:ShutaMatsudu owl:sameAs wd:Q58381960 .
+
+:ShōgoMiyata owl:sameAs wd:Q81905482 .
+
+:SidneyChu owl:sameAs wd:Q58389503 .
+
+:SophiaGorham owl:sameAs wd:Q1551987 .
+
+:StevenDubois owl:sameAs wd:Q58378864 .
+
+:StijnDesmet owl:sameAs wd:Q58382493 .
+
+:SáraBácskai owl:sameAs wd:Q46964887 .
+
+:TarquiniuPriscu owl:sameAs wd:Q132458393 .
+
+:TejiNizampur owl:sameAs wd:Q120769169 .
+
+:ThomasNadalini owl:sameAs wd:Q81905665 .
+
+:TigerWoods owl:sameAs wd:Q107348 .
+
+:TinekeDenDulk owl:sameAs wd:Q57549148 .
+
+:TourDeFrance owl:sameAs wd:Q43255 .
+
+:TriciaSargent owl:sameAs wd:Q122893827 .
+
+:UEFAChampionsLeague owl:sameAs wd:Q212974 .
+
+:USOpenTennis owl:sameAs wd:Q48800 .
+
+:ValentinaVezzali owl:sameAs wd:Q313746 .
+
+:VictoriaVaynberg owl:sameAs wd:Q122893803 .
+
+:WardPétré owl:sameAs wd:Q47508219 .
+
+:WarreVanDamme owl:sameAs wd:Q81907826 .
+
+:Wei-MingLeong owl:sameAs wd:Q122893806 .
+
+:WendyGoelz owl:sameAs wd:Q137478294 .
+
+:WilliamDandjinou owl:sameAs wd:Q57540790 .
+
+:WimbledonChampionships owl:sameAs wd:Q52 .
+
+:XuPeng owl:sameAs wd:Q27989794 .
+
+:YelizavetaKuznetsova owl:sameAs wd:Q133839868 .
+
+:YerkebulanShamukhanov owl:sameAs wd:Q48666944 .
+
+:ZangYize owl:sameAs wd:Q28042119 .
+
+:ZeljkaJuricek owl:sameAs wd:Q122893807 .
+
+:memberOfTeam owl:equivalentProperty <http://www.wikidata.org/prop/direct/P54> .
+
+:participatedIn owl:equivalentProperty <http://www.wikidata.org/prop/direct/P1344> .
+
+:practicesSport owl:equivalentProperty <http://www.wikidata.org/prop/direct/P641> .
+
+:represents owl:equivalentProperty <http://www.wikidata.org/prop/direct/P27> .
+
+:wonMedal owl:equivalentProperty <http://www.wikidata.org/prop/direct/P166> .
+

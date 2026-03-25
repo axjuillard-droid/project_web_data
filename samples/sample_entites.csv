@@ -1,0 +1,20 @@
+id,nom,type,sport,pays,wikidata_uri,source_url
+UsainBolt,Usain Bolt,Athlete,Athletics,Jamaica,http://www.wikidata.org/entity/Q1190522,https://en.wikipedia.org/wiki/Usain_Bolt
+SerenaWilliams,Serena Williams,Athlete,Tennis,United States,http://www.wikidata.org/entity/Q32684,https://en.wikipedia.org/wiki/Serena_Williams
+LionelMessi,Lionel Messi,Athlete,Football,Argentina,http://www.wikidata.org/entity/Q615,https://en.wikipedia.org/wiki/Lionel_Messi
+MichaelPhelps,Michael Phelps,Athlete,Swimming,United States,http://www.wikidata.org/entity/Q83868,https://en.wikipedia.org/wiki/Michael_Phelps
+SimoneBiles,Simone Biles,Athlete,Gymnastics,United States,http://www.wikidata.org/entity/Q202090,https://en.wikipedia.org/wiki/Simone_Biles
+RogerFederer,Roger Federer,Athlete,Tennis,Switzerland,http://www.wikidata.org/entity/Q171277,https://en.wikipedia.org/wiki/Roger_Federer
+RafaelNadal,Rafael Nadal,Athlete,Tennis,Spain,http://www.wikidata.org/entity/Q179477,https://en.wikipedia.org/wiki/Rafael_Nadal
+NovakDjokovic,Novak Djokovic,Athlete,Tennis,Serbia,http://www.wikidata.org/entity/Q149985,https://en.wikipedia.org/wiki/Novak_Djokovic
+CarlLewis,Carl Lewis,Athlete,Athletics,United States,http://www.wikidata.org/entity/Q12725,https://en.wikipedia.org/wiki/Carl_Lewis
+MuhammadAli,Muhammad Ali,Athlete,Boxing,United States,http://www.wikidata.org/entity/Q1254,https://en.wikipedia.org/wiki/Muhammad_Ali
+TigerWoods,Tiger Woods,Athlete,Golf,United States,http://www.wikidata.org/entity/Q107348,https://en.wikipedia.org/wiki/Tiger_Woods
+Pelé,Pelé,Athlete,Football,Brazil,http://www.wikidata.org/entity/Q36819,https://en.wikipedia.org/wiki/Pelé
+CristianoRonaldo,Cristiano Ronaldo,Athlete,Football,Portugal,http://www.wikidata.org/entity/Q46220,https://en.wikipedia.org/wiki/Cristiano_Ronaldo
+ValentinaVezzali,Valentina Vezzali,Athlete,Fencing,Italy,http://www.wikidata.org/entity/Q313746,https://en.wikipedia.org/wiki/Valentina_Vezzali
+MoFarah,Mo Farah,Athlete,Athletics,United Kingdom,http://www.wikidata.org/entity/Q220109,https://en.wikipedia.org/wiki/Mo_Farah
+NadiaComaneci,Nadia Comaneci,Athlete,Gymnastics,Romania,http://www.wikidata.org/entity/Q12823,https://en.wikipedia.org/wiki/Nadia_Comaneci
+EliudKipchoge,Eliud Kipchoge,Athlete,Athletics,Kenya,http://www.wikidata.org/entity/Q193003,https://en.wikipedia.org/wiki/Eliud_Kipchoge
+KylianMbappé,Kylian Mbappé,Athlete,Football,France,http://www.wikidata.org/entity/Q180617,https://en.wikipedia.org/wiki/Kylian_Mbappé
+LeBronJames,LeBron James,Athlete,Basketball,United States,http://www.wikidata.org/entity/Q192616,https://en.wikipedia.org/wiki/LeBron_James

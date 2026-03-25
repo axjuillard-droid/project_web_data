@@ -1,0 +1,2368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns="http://monprojet.org/sports/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://monprojet.org/sports/2016SummerOlympics">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">2016 Summer Olympics</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q8567"/>
+    <represents rdf:resource="http://monprojet.org/sports/Brazil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/NikolaMazur">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Nikola Mazur</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q58366935"/>
+    <represents rdf:resource="http://monprojet.org/sports/Poland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/RiodeJaneiro">
+    <rdf:type rdf:resource="http://monprojet.org/sports/City"/>
+    <rdfs:label xml:lang="en">Rio de Janeiro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q136762889">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q136762889</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q136762889"/>
+    <represents rdf:resource="http://monprojet.org/sports/SouthKorea"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/WilliamDandjinou">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">William Dandjinou</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q57540790"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/MariuszBrzeziak">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Mariusz Brzeziak</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q138608814"/>
+    <represents rdf:resource="http://monprojet.org/sports/Poland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q136784691">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q136784691</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q136784691"/>
+    <represents rdf:resource="http://monprojet.org/sports/KingdomoftheNetherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/PavelSitnikov">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Pavel Sitnikov</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q48333077"/>
+    <represents rdf:resource="http://monprojet.org/sports/Russia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Football">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Sport"/>
+    <rdfs:label xml:lang="en">Football</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Pelé">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Pelé</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q36819"/>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Football"/>
+    <represents rdf:resource="http://monprojet.org/sports/Brazil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Wimbledon2016">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">Wimbledon2016</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2016</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/London"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/ShutaMatsudu">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Shuta Matsudu</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q58381960"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137442123">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137442123</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137442123"/>
+    <represents rdf:resource="http://monprojet.org/sports/KingdomoftheNetherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/OdinByFarstad">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Odin By Farstad</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q52206730"/>
+    <represents rdf:resource="http://monprojet.org/sports/Norway"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/2018FifaWorldCup">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">2018 FIFA World Cup</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q38717"/>
+    <represents rdf:resource="http://monprojet.org/sports/Russia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/YelizavetaKuznetsova">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Yelizaveta Kuznetsova</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q133839868"/>
+    <represents rdf:resource="http://monprojet.org/sports/Russia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/NovakDjokovic">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">NovakDjokovic</rdfs:label>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Tennis"/>
+    <represents rdf:resource="http://monprojet.org/sports/Serbia"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/AustralianOpen2008"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/AustralianOpen2019"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/Wimbledon2014"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/USOpen2015"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/RolandGarros2016"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/GoldMedal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/HanaTakahashi">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Hana Takahashi</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q57887947"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/2008SummerOlympics">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">2008SummerOlympics</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2008</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/China"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Beijing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/MichelleVelzeboer">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Michelle Velzeboer</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q81907900"/>
+    <represents rdf:resource="http://monprojet.org/sports/KingdomoftheNetherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137285610">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137285610</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137285610"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137299689">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137299689</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137299689"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/ValentinaVezzali">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Valentina Vezzali</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q313746"/>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Fencing"/>
+    <represents rdf:resource="http://monprojet.org/sports/Italy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/TinekeDenDulk">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Tineke den Dulk</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q57549148"/>
+    <represents rdf:resource="http://monprojet.org/sports/Belgium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137351621">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137351621</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137351621"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/RolandGarros2005">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">RolandGarros2005</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/France"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Paris"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137366747">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137366747</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137366747"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/ShōgoMiyata">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Shōgo Miyata</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q81905482"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/USOpen2012">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">USOpen2012</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/NewYork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137461165">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137461165</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137461165"/>
+    <represents rdf:resource="http://monprojet.org/sports/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/MarionCharlier">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Marion Charlier</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893814"/>
+    <represents rdf:resource="http://monprojet.org/sports/Morocco"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/MichaelPhelps">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">MichaelPhelps</rdfs:label>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Swimming"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsAthens2004"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsBeijing2008"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsLondon2012"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsRioDeJaneiro2016"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/GoldMedal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/represents">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdfs:range rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">represents</rdfs:label>
+    <rdfs:comment xml:lang="fr">L'athlète représente ce pays</rdfs:comment>
+    <owl:equivalentProperty rdf:resource="http://www.wikidata.org/prop/direct/P27"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/LionelMessi">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">LionelMessi</rdfs:label>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Football"/>
+    <represents rdf:resource="http://monprojet.org/sports/Argentina"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/FIFAWorldCup2006"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/FIFAWorldCup2010"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/FIFAWorldCup2014"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/FIFAWorldCup2018"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/FIFAWorldCup2022"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/GoldMedal"/>
+    <memberOfTeam rdf:resource="http://monprojet.org/sports/ArgentinaFootballTeam"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/ElisaConfortola">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Elisa Confortola</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q81902373"/>
+    <represents rdf:resource="http://monprojet.org/sports/Italy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/MashaKabanova">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Masha Kabanova</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893820"/>
+    <represents rdf:resource="http://monprojet.org/sports/Russia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/2012SummerOlympics">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">2012 Summer Olympics</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q8567"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137299476">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137299476</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137299476"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AlexSirac">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Alex Sirac</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q47472326"/>
+    <represents rdf:resource="http://monprojet.org/sports/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137299382">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137299382</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137299382"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137439786">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137439786</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137439786"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/CatherineZawadzki">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Catherine Zawadzki</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893804"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/ArgentinaFootballTeam">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Team"/>
+    <rdfs:label xml:lang="en">ArgentinaFootballTeam</rdfs:label>
+    <teamRepresents rdf:resource="http://monprojet.org/sports/Argentina"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137322416">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137322416</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137322416"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/JessicaSchlosser">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Jessica Schlosser</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893816"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/RinaYamana">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Rina Yamana</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q50323407"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/LeBronJames">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">LeBronJames</rdfs:label>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Basketball"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsAthens2004"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsBeijing2008"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsLondon2012"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/GoldMedal"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/BronzeMedal"/>
+    <memberOfTeam rdf:resource="http://monprojet.org/sports/USABasketballTeam"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137298135">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137298135</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137298135"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137507359">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137507359</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137507359"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/year">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    <rdfs:label xml:lang="en">year</rdfs:label>
+    <rdfs:comment xml:lang="fr">Année de la compétition</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Doha">
+    <rdf:type rdf:resource="http://monprojet.org/sports/City"/>
+    <rdfs:label xml:lang="en">Doha</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/YerkebulanShamukhanov">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Yerkebulan Shamukhanov</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q48666944"/>
+    <represents rdf:resource="http://monprojet.org/sports/Kazakhstan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/NielsKingma">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Niels Kingma</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q57541851"/>
+    <represents rdf:resource="http://monprojet.org/sports/KingdomoftheNetherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/PearlyLeung">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Pearly Leung</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893809"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/sameNationality">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdfs:range rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdfs:label xml:lang="en">sameNationality</rdfs:label>
+    <rdfs:comment xml:lang="fr">Les deux athlètes représentent le même pays (inféré SWRL)</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137298043">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137298043</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137298043"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137507993">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137507993</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137507993"/>
+    <represents rdf:resource="http://monprojet.org/sports/KingdomoftheNetherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137351657">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137351657</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137351657"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AurélieLévêque">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Aurélie Lévêque</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q105076799"/>
+    <represents rdf:resource="http://monprojet.org/sports/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/2020SummerOlympics">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">2020 Summer Olympics</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q8567"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137439888">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137439888</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137439888"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/RolandGarros2010">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">RolandGarros2010</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2010</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/France"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Paris"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/MoFarah">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">MoFarah</rdfs:label>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Athletics"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsLondon2012"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsRioDeJaneiro2016"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/WorldAthleticsChampionships2013"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/GoldMedal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/birthYear">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    <rdfs:label xml:lang="en">birthYear</rdfs:label>
+    <rdfs:comment xml:lang="fr">Année de naissance de l'athlète</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/GermanyFootballTeam">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Team"/>
+    <rdfs:label xml:lang="en">GermanyFootballTeam</rdfs:label>
+    <teamRepresents rdf:resource="http://monprojet.org/sports/Germany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KendylSeverino">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Kendyl Severino</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893810"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137285557">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137285557</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137285557"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/WorldAthleticsChampionships2013">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">WorldAthleticsChampionships2013</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2013</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/Russia"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Moscow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/MaWei">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Ma Wei</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q133837523"/>
+    <represents rdf:resource="http://monprojet.org/sports/People'sRepublicofChina"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/OlympicsAthens2004">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">OlympicsAthens2004</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/Greece"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Athens"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/USOpen2004">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">USOpen2004</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/NewYork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/PortugalFootballTeam">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Team"/>
+    <rdfs:label xml:lang="en">PortugalFootballTeam</rdfs:label>
+    <teamRepresents rdf:resource="http://monprojet.org/sports/Portugal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/TourDeFrance">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">Tour de France</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q43255"/>
+    <represents rdf:resource="http://monprojet.org/sports/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AustralianOpen2009">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">AustralianOpen2009</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2009</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/Australia"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Melbourne"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/CorinneStoddard">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Corinne Stoddard</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q58367393"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/ArisaGo">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Arisa Go</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q27865869"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/RafaelNadal">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">RafaelNadal</rdfs:label>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Tennis"/>
+    <represents rdf:resource="http://monprojet.org/sports/Spain"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/RolandGarros2005"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/RolandGarros2010"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/RolandGarros2022"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/AustralianOpen2009"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/USOpen2010"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/GoldMedal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137456723">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137456723</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137456723"/>
+    <represents rdf:resource="http://monprojet.org/sports/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137476805">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137476805</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137476805"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KatiaFilippi">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Katia Filippi</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q81902889"/>
+    <represents rdf:resource="http://monprojet.org/sports/Italy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/teamRepresents">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://monprojet.org/sports/Team"/>
+    <rdfs:range rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">teamRepresents</rdfs:label>
+    <rdfs:comment xml:lang="fr">L'équipe représente ce pays</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AdilGaliakhmetov">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">AdilGaliakhmetov</rdfs:label>
+    <represents rdf:resource="http://monprojet.org/sports/Kazakhstan"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsBeijing2008"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Italy">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Italy</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/JegorDomoratskij">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Jegor Domoratskij</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q109335865"/>
+    <represents rdf:resource="http://monprojet.org/sports/Belarus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/hostedBy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:range rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">hostedBy</rdfs:label>
+    <rdfs:comment xml:lang="fr">La compétition est organisée par ce pays</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/SelmaPoutsma">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Selma Poutsma</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q50323417"/>
+    <represents rdf:resource="http://monprojet.org/sports/KingdomoftheNetherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137366326">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137366326</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137366326"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137442401">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137442401</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137442401"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/France">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">France</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137366777">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137366777</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137366777"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Athlete">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">Athlete</rdfs:label>
+    <rdfs:comment xml:lang="fr">Sportif ou sportive de compétition</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://monprojet.org/sports/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Wei-MingLeong">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Wei-Ming Leong</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893806"/>
+    <represents rdf:resource="http://monprojet.org/sports/Malaysia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KimiGoetz">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Kimi Goetz</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q80760501"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/GaryGriffin">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Gary Griffin</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q17305979"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137439797">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137439797</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137439797"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AustralianOpen2008">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">AustralianOpen2008</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2008</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/Australia"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Melbourne"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/JuliaMoore">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Julia Moore</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q133843237"/>
+    <represents rdf:resource="http://monprojet.org/sports/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137322232">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137322232</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137322232"/>
+    <represents rdf:resource="http://monprojet.org/sports/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AustralianOpen2019">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">AustralianOpen2019</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2019</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/Australia"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Melbourne"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/ShinDong-min">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Shin Dong-min</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q133835304"/>
+    <represents rdf:resource="http://monprojet.org/sports/SouthKorea"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/RebekaSziliczei-nemet">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Rebeka Sziliczei-Nemet</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q50323388"/>
+    <represents rdf:resource="http://monprojet.org/sports/Hungary"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/UsainBolt">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">UsainBolt</rdfs:label>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Athletics"/>
+    <represents rdf:resource="http://monprojet.org/sports/Jamaica"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsBeijing2008"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsLondon2012"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsRioDeJaneiro2016"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/GoldMedal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Fencing">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Sport"/>
+    <rdfs:label xml:lang="en">Fencing</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/DanielaKaluskova">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Daniela Kaluskova</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893821"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/OlympicsTokyo2020">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">OlympicsTokyo2020</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2021</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/Japan"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Tokyo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/OlympicsRioDeJaneiro2016">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">OlympicsRioDeJaneiro2016</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2016</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/Brazil"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/RiodeJaneiro"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/StevenDubois">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Steven Dubois</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q58378864"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/wonMedal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdfs:range rdf:resource="http://monprojet.org/sports/Medal"/>
+    <rdfs:label xml:lang="en">wonMedal</rdfs:label>
+    <rdfs:comment xml:lang="fr">L'athlète a remporté cette médaille</rdfs:comment>
+    <owl:equivalentProperty rdf:resource="http://www.wikidata.org/prop/direct/P166"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KārlisKrūzbergs">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Kārlis Krūzbergs</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q133837878"/>
+    <represents rdf:resource="http://monprojet.org/sports/Latvia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/SimoneBiles">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">SimoneBiles</rdfs:label>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Gymnastics"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsRioDeJaneiro2016"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsTokyo2020"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsParis2024"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/GoldMedal"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/SilverMedal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Romania">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Romania</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/USOpen2015">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">USOpen2015</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/NewYork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/SerenaWilliams">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">SerenaWilliams</rdfs:label>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Tennis"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/Wimbledon2012"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/Wimbledon2015"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/Wimbledon2016"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/USOpen2012"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/USOpen2014"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/AustralianOpen2015"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/GoldMedal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Athens">
+    <rdf:type rdf:resource="http://monprojet.org/sports/City"/>
+    <rdfs:label xml:lang="en">Athens</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137322048">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137322048</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137322048"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137427217">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137427217</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137427217"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137299520">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137299520</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137299520"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137298021">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137298021</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137298021"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137456231">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137456231</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137456231"/>
+    <represents rdf:resource="http://monprojet.org/sports/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Russia">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Russia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/SilverMedal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/SilverMedal"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Medal"/>
+    <rdfs:subClassOf rdf:resource="http://monprojet.org/sports/Medal"/>
+    <rdfs:label xml:lang="en">SilverMedal</rdfs:label>
+    <rdfs:label xml:lang="en">Silver Medal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137290278">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137290278</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137290278"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/StijnDesmet">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Stijn Desmet</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q58382493"/>
+    <represents rdf:resource="http://monprojet.org/sports/Belgium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/FIFAWorldCup2014">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">FIFAWorldCup2014</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/Brazil"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Brasilia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/IanQuinn">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Ian Quinn</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q105765673"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/ThomasNadalini">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Thomas Nadalini</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q81905665"/>
+    <represents rdf:resource="http://monprojet.org/sports/Italy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Competition">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">Competition</rdfs:label>
+    <rdfs:comment xml:lang="fr">Événement sportif (JO, Coupe du Monde, tournoi…)</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/USOpen2014">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">USOpen2014</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/NewYork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/memberOfTeam">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdfs:range rdf:resource="http://monprojet.org/sports/Team"/>
+    <rdfs:label xml:lang="en">memberOfTeam</rdfs:label>
+    <rdfs:comment xml:lang="fr">L'athlète est membre de cette équipe</rdfs:comment>
+    <owl:equivalentProperty rdf:resource="http://www.wikidata.org/prop/direct/P54"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/ShervinSaedinia">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Shervin Saedinia</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893824"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/hasCompeted">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdfs:range rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdfs:label xml:lang="en">hasCompeted</rdfs:label>
+    <rdfs:comment xml:lang="fr">L'athlète a concouru contre cet autre athlète (inféré SWRL)</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/HarunaNagamori">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Haruna Nagamori</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q81905669"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/TejiNizampur">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Teji Nizampur</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q120769169"/>
+    <represents rdf:resource="http://monprojet.org/sports/India"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Beijing">
+    <rdf:type rdf:resource="http://monprojet.org/sports/City"/>
+    <rdfs:label xml:lang="en">Beijing</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Jamaica">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Jamaica</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/FIFAWorldCup2022">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">FIFAWorldCup2022</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2022</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/Qatar"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Doha"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137292696">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137292696</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137292696"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/EliudKipchoge">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">EliudKipchoge</rdfs:label>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Athletics"/>
+    <represents rdf:resource="http://monprojet.org/sports/Kenya"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsRioDeJaneiro2016"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsTokyo2020"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsParis2024"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/BerlinMarathon2018"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/GoldMedal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/USABasketballTeam">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Team"/>
+    <rdfs:label xml:lang="en">USABasketballTeam</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137321858">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137321858</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137321858"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AnneMagellan">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Anne Magellan</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893800"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/TarquiniuPriscu">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Tarquiniu Priscu</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q132458393"/>
+    <represents rdf:resource="http://monprojet.org/sports/Romania"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/RolandGarros2016">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">RolandGarros2016</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2016</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/France"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Paris"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KazukiYoshinaga">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Kazuki Yoshinaga</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q44700607"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137351741">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137351741</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137351741"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/locatedIn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:range rdf:resource="http://monprojet.org/sports/City"/>
+    <rdfs:label xml:lang="en">locatedIn</rdfs:label>
+    <rdfs:comment xml:lang="fr">La compétition se déroule dans cette ville</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q136759786">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q136759786</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q136759786"/>
+    <represents rdf:resource="http://monprojet.org/sports/People'sRepublicofChina"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/GemmaCooper">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Gemma Cooper</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q50396685"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137439662">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137439662</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137439662"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Kenya">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Kenya</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137366720">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137366720</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137366720"/>
+    <represents rdf:resource="http://monprojet.org/sports/Italy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/City">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">City</rdfs:label>
+    <rdfs:comment xml:lang="fr">Ville hôte d'une compétition</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/ZangYize">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Zang Yize</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q28042119"/>
+    <represents rdf:resource="http://monprojet.org/sports/People'sRepublicofChina"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Wimbledon2012">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">Wimbledon2012</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/London"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/DanaéBlais">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Danaé Blais</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q50323396"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137298250">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137298250</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137298250"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Qatar">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Qatar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/fullName">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:label xml:lang="en">fullName</rdfs:label>
+    <rdfs:comment xml:lang="fr">Nom complet</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KristineBechHolte">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Kristine Bech Holte</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893819"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/SouthKorea">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137290678">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137290678</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137290678"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137298303">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137298303</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137298303"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Melbourne">
+    <rdf:type rdf:resource="http://monprojet.org/sports/City"/>
+    <rdfs:label xml:lang="en">Melbourne</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137439731">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137439731</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137439731"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137322380">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137322380</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137322380"/>
+    <represents rdf:resource="http://monprojet.org/sports/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/CornelisMoerman">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Cornelis Moerman</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2983880"/>
+    <represents rdf:resource="http://monprojet.org/sports/KingdomoftheNetherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Taiwan">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/WimbledonChampionships">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">Wimbledon Championships</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q52"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KristenSantos-griswold">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Kristen Santos-Griswold</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q58368749"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137442135">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137442135</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137442135"/>
+    <represents rdf:resource="http://monprojet.org/sports/KingdomoftheNetherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137366677">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137366677</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137366677"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/NadiaComaneci">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Nadia Comaneci</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12823"/>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Gymnastics"/>
+    <represents rdf:resource="http://monprojet.org/sports/Romania"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/USOpenTennis">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">US Open Tennis</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q48800"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137290631">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137290631</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137290631"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137478395">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137478395</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137478395"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137507404">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137507404</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137507404"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AlexaKonstand">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Alexa Konstand</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893822"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/BostonMarathon">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">Boston Marathon</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q55494"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137286084">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137286084</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137286084"/>
+    <represents rdf:resource="http://monprojet.org/sports/Belgium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137299545">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137299545</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137299545"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/JangSung-woo">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Jang Sung-woo</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q81903914"/>
+    <represents rdf:resource="http://monprojet.org/sports/SouthKorea"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/multiMedalist">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdfs:range rdf:resource="http://monprojet.org/sports/Medal"/>
+    <rdfs:label xml:lang="en">multiMedalist</rdfs:label>
+    <rdfs:comment xml:lang="fr">L'athlète a remporté plusieurs types de médailles (inféré SWRL)</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/FIFAWorldCup2006">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">FIFAWorldCup2006</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/Germany"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Berlin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/practicesSport">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdfs:range rdf:resource="http://monprojet.org/sports/Sport"/>
+    <rdfs:label xml:lang="en">practicesSport</rdfs:label>
+    <rdfs:comment xml:lang="fr">L'athlète pratique ce sport</rdfs:comment>
+    <owl:equivalentProperty rdf:resource="http://www.wikidata.org/prop/direct/P641"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KayHuisman">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Kay Huisman</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q57549830"/>
+    <represents rdf:resource="http://monprojet.org/sports/KingdomoftheNetherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/VictoriaVaynberg">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Victoria Vaynberg</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893803"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/SeoYi-ra">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Seo Yi-ra</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q28043030"/>
+    <represents rdf:resource="http://monprojet.org/sports/SouthKorea"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137427253">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137427253</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137427253"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/MarcinKamiński">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Marcin Kamiński</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q138608761"/>
+    <represents rdf:resource="http://monprojet.org/sports/Poland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137456384">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137456384</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137456384"/>
+    <represents rdf:resource="http://monprojet.org/sports/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Team">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">Team</rdfs:label>
+    <rdfs:comment xml:lang="fr">Équipe sportive nationale ou de club</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137285917">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137285917</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137285917"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AngelinaTarasova">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Angelina Tarasova</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q133838997"/>
+    <represents rdf:resource="http://monprojet.org/sports/Russia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q136780882">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q136780882</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q136780882"/>
+    <represents rdf:resource="http://monprojet.org/sports/Germany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/FrisoEmons">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Friso Emons</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q50323519"/>
+    <represents rdf:resource="http://monprojet.org/sports/KingdomoftheNetherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/USOpen2010">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">USOpen2010</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2010</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/NewYork"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/ReiZulu">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Rei Zulu</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7309872"/>
+    <represents rdf:resource="http://monprojet.org/sports/Brazil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/MuhammadAli">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Muhammad Ali</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1254"/>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Boxing"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/participatedIn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdfs:range rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">participatedIn</rdfs:label>
+    <rdfs:comment xml:lang="fr">L'athlète a participé à cette compétition</rdfs:comment>
+    <owl:equivalentProperty rdf:resource="http://www.wikidata.org/prop/direct/P1344"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/RolandGarros2022">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">RolandGarros2022</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2022</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/France"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Paris"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Award">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">Award</rdfs:label>
+    <rdfs:comment xml:lang="fr">Récompense ou titre sportif (non-médaille)</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Medal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">Medal</rdfs:label>
+    <rdfs:comment xml:lang="fr">Médaille (or, argent, bronze)</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137286073">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137286073</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137286073"/>
+    <represents rdf:resource="http://monprojet.org/sports/Belgium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KylianMbappe">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">KylianMbappe</rdfs:label>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Football"/>
+    <represents rdf:resource="http://monprojet.org/sports/France"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/FIFAWorldCup2018"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/FIFAWorldCup2022"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/OlympicsParis2024"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/GoldMedal"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/SilverMedal"/>
+    <memberOfTeam rdf:resource="http://monprojet.org/sports/FranceFootballTeam"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137299366">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137299366</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137299366"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/JensVan'tWout">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Jens van 't Wout</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q105151424"/>
+    <represents rdf:resource="http://monprojet.org/sports/KingdomoftheNetherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/CristianoRonaldo">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">CristianoRonaldo</rdfs:label>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Football"/>
+    <represents rdf:resource="http://monprojet.org/sports/Portugal"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/FIFAWorldCup2006"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/FIFAWorldCup2010"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/FIFAWorldCup2014"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/FIFAWorldCup2018"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/FIFAWorldCup2022"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/GoldMedal"/>
+    <memberOfTeam rdf:resource="http://monprojet.org/sports/PortugalFootballTeam"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/FIFAWorldCup2018">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">FIFAWorldCup2018</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2018</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/Russia"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Moscow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137456295">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137456295</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137456295"/>
+    <represents rdf:resource="http://monprojet.org/sports/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137322324">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137322324</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137322324"/>
+    <represents rdf:resource="http://monprojet.org/sports/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/FélixPigeon">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Félix Pigeon</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q81906173"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/TriciaSargent">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Tricia Sargent</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893827"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137442441">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137442441</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137442441"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Kazakhstan">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/SophiaGorham">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Sophia Gorham</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1551987"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Morocco">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KathleenReady">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Kathleen Ready</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893802"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137322859">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137322859</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137322859"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/ontologie">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+    <rdfs:label xml:lang="en">Sports &amp; Competitions Ontology</rdfs:label>
+    <rdfs:comment xml:lang="fr">Ontologie pour les sportifs, compétitions, disciplines et palmarès.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137351706">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137351706</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137351706"/>
+    <represents rdf:resource="http://monprojet.org/sports/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/BrazilFootballTeam">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Team"/>
+    <rdfs:label xml:lang="en">BrazilFootballTeam</rdfs:label>
+    <teamRepresents rdf:resource="http://monprojet.org/sports/Brazil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137427496">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137427496</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137427496"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137456346">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137456346</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137456346"/>
+    <represents rdf:resource="http://monprojet.org/sports/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/MartiniusElvebakken">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Martinius Elvebakken</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q133850792"/>
+    <represents rdf:resource="http://monprojet.org/sports/Norway"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/UEFAChampionsLeague">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">UEFA Champions League</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q212974"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137365726">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137365726</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137365726"/>
+    <represents rdf:resource="http://monprojet.org/sports/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137322394">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137322394</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137322394"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/PetraVaňková">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Petra Vaňková</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q58369073"/>
+    <represents rdf:resource="http://monprojet.org/sports/CzechRepublic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/WardPétré">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Ward Pétré</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q47508219"/>
+    <represents rdf:resource="http://monprojet.org/sports/Belgium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137322623">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137322623</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137322623"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Wimbledon2014">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">Wimbledon2014</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/London"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/2022FifaWorldCup">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">2022 FIFA World Cup</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q20771"/>
+    <represents rdf:resource="http://monprojet.org/sports/Qatar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AndreaCassinelli">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Andrea Cassinelli</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q43340889"/>
+    <represents rdf:resource="http://monprojet.org/sports/Italy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/GabrielVolet">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Gabriel Volet</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q81907956"/>
+    <represents rdf:resource="http://monprojet.org/sports/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KatiaColturi">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Katia Colturi</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q45369895"/>
+    <represents rdf:resource="http://monprojet.org/sports/Italy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/HirokiYokoyama">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Hiroki Yokoyama</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q44699861"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/MelleVan'tWout">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Melle van 't Wout</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q57540714"/>
+    <represents rdf:resource="http://monprojet.org/sports/KingdomoftheNetherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137285878">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137285878</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137285878"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KeriMorrison">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Keri Morrison</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q47507696"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KylianMbappé">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Kylian Mbappé</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q180617"/>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Football"/>
+    <represents rdf:resource="http://monprojet.org/sports/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137298472">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137298472</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137298472"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/PatDurnin">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Pat Durnin</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q47531095"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Person">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">Person</rdfs:label>
+    <rdfs:comment xml:lang="fr">Être humain (classe parente)</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Greece">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Greece</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/2024SummerOlympics">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">2024 Summer Olympics</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q193078"/>
+    <represents rdf:resource="http://monprojet.org/sports/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/HuangYu-ting">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Huang Yu-ting</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q48551527"/>
+    <represents rdf:resource="http://monprojet.org/sports/Taiwan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/RobertsKrūzbergs">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Roberts Krūzbergs</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q46327505"/>
+    <represents rdf:resource="http://monprojet.org/sports/Latvia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Belarus">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/FranceFootballTeam">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Team"/>
+    <rdfs:label xml:lang="en">FranceFootballTeam</rdfs:label>
+    <teamRepresents rdf:resource="http://monprojet.org/sports/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137365112">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137365112</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137365112"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/EirikAndersen">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Eirik Andersen</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137189608"/>
+    <represents rdf:resource="http://monprojet.org/sports/Norway"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/WendyGoelz">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Wendy Goelz</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137478294"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/XuPeng">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Xu Peng</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q27989794"/>
+    <represents rdf:resource="http://monprojet.org/sports/People'sRepublicofChina"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/WarreVanDamme">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Warre Van Damme</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q81907826"/>
+    <represents rdf:resource="http://monprojet.org/sports/Belgium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/NewYork">
+    <rdf:type rdf:resource="http://monprojet.org/sports/City"/>
+    <rdfs:label xml:lang="en">New York</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/PascalDion">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Pascal Dion</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q43388742"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/BerlinMarathon2018">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">BerlinMarathon2018</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2018</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/Germany"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Berlin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/HarjeetBrarBajakhana">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Harjeet Brar Bajakhana</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5658064"/>
+    <represents rdf:resource="http://monprojet.org/sports/India"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/HwangDae-heon">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Hwang Dae-heon</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q41532727"/>
+    <represents rdf:resource="http://monprojet.org/sports/SouthKorea"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137478001">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137478001</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137478001"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Paris">
+    <rdf:type rdf:resource="http://monprojet.org/sports/City"/>
+    <rdfs:label xml:lang="en">Paris</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/NiallTreacy">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Niall Treacy</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q58379404"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137366712">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137366712</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137366712"/>
+    <represents rdf:resource="http://monprojet.org/sports/Italy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137427361">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137427361</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137427361"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AnitaNagay">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Anita Nagay</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q133839252"/>
+    <represents rdf:resource="http://monprojet.org/sports/Kazakhstan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Tennis">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Sport"/>
+    <rdfs:label xml:lang="en">Tennis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/NatalieAckerman">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Natalie Ackerman</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893817"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AustralianOpen2004">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">AustralianOpen2004</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/Australia"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Melbourne"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/SouthAfrica">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">SouthAfrica</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/GioyaLancee">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Gioya Lancee</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q81496523"/>
+    <represents rdf:resource="http://monprojet.org/sports/KingdomoftheNetherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Malaysia">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137297807">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137297807</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137297807"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Sport">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">Sport</rdfs:label>
+    <rdfs:comment xml:lang="fr">Discipline sportive</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/CarlLewis">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Carl Lewis</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12725"/>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Athletics"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AustralianOpen2015">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">AustralianOpen2015</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/Australia"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Melbourne"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137427318">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137427318</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137427318"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/2014FifaWorldCup">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">2014 FIFA World Cup</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q20149"/>
+    <represents rdf:resource="http://monprojet.org/sports/Brazil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Tokyo">
+    <rdf:type rdf:resource="http://monprojet.org/sports/City"/>
+    <rdfs:label xml:lang="en">Tokyo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/BronzeMedal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/BronzeMedal"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Medal"/>
+    <rdfs:subClassOf rdf:resource="http://monprojet.org/sports/Medal"/>
+    <rdfs:label xml:lang="en">BronzeMedal</rdfs:label>
+    <rdfs:label xml:lang="en">Bronze Medal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137286149">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137286149</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137286149"/>
+    <represents rdf:resource="http://monprojet.org/sports/Belgium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/MichaelJordan">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Michael Jordan</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q168523"/>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Basketball"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137351698">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137351698</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137351698"/>
+    <represents rdf:resource="http://monprojet.org/sports/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Poland">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137297983">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137297983</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137297983"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137285904">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137285904</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137285904"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/FIFAWorldCup2010">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">FIFAWorldCup2010</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2010</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/SouthAfrica"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/CapeTown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/GoldMedal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/GoldMedal"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Medal"/>
+    <rdfs:subClassOf rdf:resource="http://monprojet.org/sports/Medal"/>
+    <rdfs:label xml:lang="en">GoldMedal</rdfs:label>
+    <rdfs:label xml:lang="en">Gold Medal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/ZeljkaJuricek">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Zeljka Juricek</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893807"/>
+    <represents rdf:resource="http://monprojet.org/sports/Croatia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137322820">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137322820</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137322820"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Wimbledon2004">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">Wimbledon2004</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/London"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/People'sRepublicofChina">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/SáraBácskai">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Sára Bácskai</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q46964887"/>
+    <represents rdf:resource="http://monprojet.org/sports/Hungary"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Wimbledon2015">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">Wimbledon2015</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/London"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/MandyHorsepool">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Mandy Horsepool</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q47530979"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/LisaEckstein">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Lisa Eckstein</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q57609547"/>
+    <represents rdf:resource="http://monprojet.org/sports/Germany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/QuentinFercoq">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Quentin Fercoq</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q50323655"/>
+    <represents rdf:resource="http://monprojet.org/sports/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/UnitedKingdom">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">UnitedKingdom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/OlympicsParis2024">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">OlympicsParis2024</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2024</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/France"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Paris"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Boxing">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Sport"/>
+    <rdfs:label xml:lang="en">Boxing</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/MoritzKreuseler">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Moritz Kreuseler</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q133850543"/>
+    <represents rdf:resource="http://monprojet.org/sports/Germany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Switzerland">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Switzerland</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Brazil">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Brazil</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Wimbledon2003">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">Wimbledon2003</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/London"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/TigerWoods">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Tiger Woods</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q107348"/>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Golf"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Serbia">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Serbia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KamilaSellier">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Kamila Sellier</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q50323631"/>
+    <represents rdf:resource="http://monprojet.org/sports/Poland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/OlympicsLondon2012">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">OlympicsLondon2012</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/London"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/RolandGarros">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">Roland Garros</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q192785"/>
+    <represents rdf:resource="http://monprojet.org/sports/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/BramSteenaart">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Bram Steenaart</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q50330323"/>
+    <represents rdf:resource="http://monprojet.org/sports/KingdomoftheNetherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/ConstanceLevivier">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Constance Levivier</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q127421341"/>
+    <represents rdf:resource="http://monprojet.org/sports/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/China">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">China</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137298368">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137298368</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137298368"/>
+    <represents rdf:resource="http://monprojet.org/sports/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137366691">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137366691</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137366691"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/OlympicsBeijing2008">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">OlympicsBeijing2008</rdfs:label>
+    <year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2008</year>
+    <hostedBy rdf:resource="http://monprojet.org/sports/China"/>
+    <locatedIn rdf:resource="http://monprojet.org/sports/Beijing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137442077">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137442077</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137442077"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Swimming">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Sport"/>
+    <rdfs:label xml:lang="en">Swimming</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/DanielTiborcz">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Daniel Tiborcz</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q57541994"/>
+    <represents rdf:resource="http://monprojet.org/sports/Hungary"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/SidneyChu">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Sidney Chu</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q58389503"/>
+    <represents rdf:resource="http://monprojet.org/sports/HongKong"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Gymnastics">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Sport"/>
+    <rdfs:label xml:lang="en">Gymnastics</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/India">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/BrendaWebster">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Brenda Webster</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q47545703"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Spain">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Spain</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137427797">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137427797</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137427797"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Norway">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/CynthiaMascitto">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Cynthia Mascitto</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q49494438"/>
+    <represents rdf:resource="http://monprojet.org/sports/Italy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Athletics">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Sport"/>
+    <rdfs:label xml:lang="en">Athletics</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Country">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">Country</rdfs:label>
+    <rdfs:comment xml:lang="fr">Pays ou nation</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AliThorell">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Ali Thorell</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q122893813"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/CzechRepublic">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q133752835">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q133752835</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q133752835"/>
+    <represents rdf:resource="http://monprojet.org/sports/People'sRepublicofChina"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137478433">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137478433</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137478433"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Golf">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Sport"/>
+    <rdfs:label xml:lang="en">Golf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137427402">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137427402</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137427402"/>
+    <represents rdf:resource="http://monprojet.org/sports/Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/HongKong">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/RogerFederer">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">RogerFederer</rdfs:label>
+    <practicesSport rdf:resource="http://monprojet.org/sports/Tennis"/>
+    <represents rdf:resource="http://monprojet.org/sports/Switzerland"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/Wimbledon2003"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/Wimbledon2004"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/Wimbledon2012"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/AustralianOpen2004"/>
+    <participatedIn rdf:resource="http://monprojet.org/sports/USOpen2004"/>
+    <wonMedal rdf:resource="http://monprojet.org/sports/GoldMedal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/PéterJászapáti">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Péter Jászapáti</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q81903928"/>
+    <represents rdf:resource="http://monprojet.org/sports/Hungary"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Brasilia">
+    <rdf:type rdf:resource="http://monprojet.org/sports/City"/>
+    <rdfs:label xml:lang="en">Brasilia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Croatia">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137351714">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137351714</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137351714"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Berlin">
+    <rdf:type rdf:resource="http://monprojet.org/sports/City"/>
+    <rdfs:label xml:lang="en">Berlin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Portugal">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Portugal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137439755">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137439755</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137439755"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedKingdom"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Basketball">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Sport"/>
+    <rdfs:label xml:lang="en">Basketball</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Cycling">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Sport"/>
+    <rdfs:label xml:lang="en">Cycling</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/UnitedStates">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">UnitedStates</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Q137285841">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Q137285841</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q137285841"/>
+    <represents rdf:resource="http://monprojet.org/sports/UnitedStates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Australia">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Australia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/AustralianOpen">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Competition"/>
+    <rdfs:label xml:lang="en">Australian Open</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q120918"/>
+    <represents rdf:resource="http://monprojet.org/sports/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Germany">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Germany</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Latvia">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Argentina">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Argentina</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/QuChunyu">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Athlete"/>
+    <rdf:type rdf:resource="http://monprojet.org/sports/Person"/>
+    <rdfs:label xml:lang="en">Qu Chunyu</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q28047104"/>
+    <represents rdf:resource="http://monprojet.org/sports/People'sRepublicofChina"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Japan">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+    <rdfs:label xml:lang="en">Japan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Moscow">
+    <rdf:type rdf:resource="http://monprojet.org/sports/City"/>
+    <rdfs:label xml:lang="en">Moscow</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Canada">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Belgium">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/CapeTown">
+    <rdf:type rdf:resource="http://monprojet.org/sports/City"/>
+    <rdfs:label xml:lang="en">Cape Town</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/London">
+    <rdf:type rdf:resource="http://monprojet.org/sports/City"/>
+    <rdfs:label xml:lang="en">London</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/Hungary">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://monprojet.org/sports/KingdomoftheNetherlands">
+    <rdf:type rdf:resource="http://monprojet.org/sports/Country"/>
+  </rdf:Description>
+</rdf:RDF>
