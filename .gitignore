@@ -36,3 +36,6 @@ kge/results/*/
 
 # Logs
 *.log
+
+# Temporary test scripts
+tmp_test_*.py

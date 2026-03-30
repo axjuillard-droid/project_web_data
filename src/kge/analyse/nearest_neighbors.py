@@ -43,8 +43,12 @@ def charger_modele(modele_dir: Path):
         print(f"  ❌ Modèle non trouvé : {model_path}")
         return None
     try:
-        # Sur certaines versions de torch/pykeen, il faut autoriser les globals
-        model = torch.load(str(model_path), map_location="cpu")
+        # Sur PyTorch 2.6+, weights_only=True par défaut empêche le chargement d'objets complexes PyKEEN
+        try:
+            model = torch.load(str(model_path), map_location="cpu", weights_only=False)
+        except TypeError:
+            # Fallback pour les versions plus anciennes de torch sans l'argument weights_only
+            model = torch.load(str(model_path), map_location="cpu")
         return model
     except Exception as e:
         print(f"  ❌ Erreur de chargement torch.load : {e}")
@@ -57,6 +61,22 @@ def charger_modele(modele_dir: Path):
             return None
 
 
+# Cache pour le mapping entity_to_id chargé depuis le JSON
+_ENTITY_TO_ID_CACHE = None
+
+def charger_mapping_entites():
+    """Charge le mapping entity_to_id depuis le fichier JSON si présent."""
+    global _ENTITY_TO_ID_CACHE
+    if _ENTITY_TO_ID_CACHE is not None:
+        return _ENTITY_TO_ID_CACHE
+    
+    e2id_path = RESULTS_DIR / "entity_to_id.json"
+    if e2id_path.exists():
+        with open(e2id_path, encoding="utf-8") as f:
+            _ENTITY_TO_ID_CACHE = json.load(f)
+            return _ENTITY_TO_ID_CACHE
+    return None
+
 def voisins_plus_proches(model, entity_uri: str, k: int = 10) -> list:
     """
     Calcule les k voisins les plus proches d'une entité dans l'espace d'embedding.
@@ -65,26 +85,39 @@ def voisins_plus_proches(model, entity_uri: str, k: int = 10) -> list:
     import torch
     import torch.nn.functional as F
 
-    # Vérifier que l'entité est dans la KB
-    entity_to_id = model.entity_representations[0]._embeddings.weight.data
-    triples_factory = model.triples_factory if hasattr(model, 'triples_factory') else None
-
-    if triples_factory and entity_uri in triples_factory.entity_to_id:
-        entity_idx = triples_factory.entity_to_id[entity_uri]
+    # 1. Obtenir le mapping entity -> index
+    entity_to_id = None
+    if hasattr(model, 'triples_factory') and model.triples_factory:
+        entity_to_id = model.triples_factory.entity_to_id
     else:
+        # Fallback sur le JSON
+        entity_to_id = charger_mapping_entites()
+
+    if not entity_to_id or entity_uri not in entity_to_id:
         print(f"  ⚠️  Entité non trouvée dans le modèle : {entity_uri.split('/')[-1]}")
         return []
 
+    entity_idx = entity_to_id[entity_uri]
+
     # Obtenir l'embedding de l'entité
+    # Note: on utilise model.entity_representations[0] pour obtenir le tenseur
     all_embeddings = model.entity_representations[0]().detach()
+    
+    # Sécurité : certains modèles ont une dimension différente, on vérifie l'index
+    if entity_idx >= all_embeddings.shape[0]:
+        print(f"  ⚠️  Index {entity_idx} hors limite pour le modèle ({all_embeddings.shape[0]} entités)")
+        return []
+
     entity_emb = all_embeddings[entity_idx].unsqueeze(0)
 
     # Calculer la similarité cosinus avec toutes les entités
     similarites = F.cosine_similarity(entity_emb, all_embeddings)
-    topk_scores, topk_indices = similarites.topk(k + 1)
+    
+    # On demande k+1 car l'entité elle-même est le voisin #1 (score 1.0)
+    topk_scores, topk_indices = similarites.topk(min(k + 1, all_embeddings.shape[0]))
 
     # Convertir les indices en URIs
-    id_to_entity = {v: k for k, v in triples_factory.entity_to_id.items()}
+    id_to_entity = {v: k for k, v in entity_to_id.items()}
     voisins = []
     for idx, score in zip(topk_indices.tolist(), topk_scores.tolist()):
         uri_voisin = id_to_entity.get(idx, f"entity_{idx}")

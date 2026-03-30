@@ -1,0 +1,446 @@
+{
+  "modele": "DistMult",
+  "top_k": 10,
+  "resultats": {
+    "UsainBolt": {
+      "uri": "http://monprojet.org/sports/UsainBolt",
+      "voisins": [
+        {
+          "uri": "http://monprojet.org/sports/MoFarah",
+          "libelle": "MoFarah",
+          "score": 0.9311
+        },
+        {
+          "uri": "http://monprojet.org/sports/EliudKipchoge",
+          "libelle": "EliudKipchoge",
+          "score": 0.8778
+        },
+        {
+          "uri": "http://monprojet.org/sports/LeBronJames",
+          "libelle": "LeBronJames",
+          "score": 0.828
+        },
+        {
+          "uri": "http://monprojet.org/sports/MichaelPhelps",
+          "libelle": "MichaelPhelps",
+          "score": 0.8068
+        },
+        {
+          "uri": "http://monprojet.org/sports/SimoneBiles",
+          "libelle": "SimoneBiles",
+          "score": 0.7927
+        },
+        {
+          "uri": "http://monprojet.org/sports/AdilGaliakhmetov",
+          "libelle": "AdilGaliakhmetov",
+          "score": 0.7616
+        },
+        {
+          "uri": "http://monprojet.org/sports/RogerFederer",
+          "libelle": "RogerFederer",
+          "score": 0.7581
+        },
+        {
+          "uri": "http://monprojet.org/sports/CarlLewis",
+          "libelle": "CarlLewis",
+          "score": 0.7476
+        },
+        {
+          "uri": "http://monprojet.org/sports/MichaelJordan",
+          "libelle": "MichaelJordan",
+          "score": 0.6854
+        },
+        {
+          "uri": "http://monprojet.org/sports/SerenaWilliams",
+          "libelle": "SerenaWilliams",
+          "score": 0.6561
+        }
+      ]
+    },
+    "SerenaWilliams": {
+      "uri": "http://monprojet.org/sports/SerenaWilliams",
+      "voisins": [
+        {
+          "uri": "http://monprojet.org/sports/Q137439731",
+          "libelle": "Q137439731",
+          "score": 0.8541
+        },
+        {
+          "uri": "http://monprojet.org/sports/KathleenReady",
+          "libelle": "KathleenReady",
+          "score": 0.8414
+        },
+        {
+          "uri": "http://monprojet.org/sports/Q137290678",
+          "libelle": "Q137290678",
+          "score": 0.8407
+        },
+        {
+          "uri": "http://monprojet.org/sports/LeBronJames",
+          "libelle": "LeBronJames",
+          "score": 0.8378
+        },
+        {
+          "uri": "http://monprojet.org/sports/Q137478395",
+          "libelle": "Q137478395",
+          "score": 0.8372
+        },
+        {
+          "uri": "http://monprojet.org/sports/IanQuinn",
+          "libelle": "IanQuinn",
+          "score": 0.8368
+        },
+        {
+          "uri": "http://monprojet.org/sports/MichaelPhelps",
+          "libelle": "MichaelPhelps",
+          "score": 0.8359
+        },
+        {
+          "uri": "http://monprojet.org/sports/MichaelJordan",
+          "libelle": "MichaelJordan",
+          "score": 0.8305
+        },
+        {
+          "uri": "http://monprojet.org/sports/MuhammadAli",
+          "libelle": "MuhammadAli",
+          "score": 0.8279
+        },
+        {
+          "uri": "http://monprojet.org/sports/CarlLewis",
+          "libelle": "CarlLewis",
+          "score": 0.8242
+        }
+      ]
+    },
+    "LionelMessi": {
+      "uri": "http://monprojet.org/sports/LionelMessi",
+      "voisins": [
+        {
+          "uri": "http://monprojet.org/sports/KylianMbappe",
+          "libelle": "KylianMbappe",
+          "score": 0.7588
+        },
+        {
+          "uri": "http://monprojet.org/sports/CristianoRonaldo",
+          "libelle": "CristianoRonaldo",
+          "score": 0.6983
+        },
+        {
+          "uri": "http://monprojet.org/sports/SimoneBiles",
+          "libelle": "SimoneBiles",
+          "score": 0.6271
+        },
+        {
+          "uri": "http://monprojet.org/sports/Pelé",
+          "libelle": "Pelé",
+          "score": 0.6085
+        },
+        {
+          "uri": "http://monprojet.org/sports/KylianMbappé",
+          "libelle": "KylianMbappé",
+          "score": 0.5981
+        },
+        {
+          "uri": "http://monprojet.org/sports/MoFarah",
+          "libelle": "MoFarah",
+          "score": 0.5842
+        },
+        {
+          "uri": "http://monprojet.org/sports/EliudKipchoge",
+          "libelle": "EliudKipchoge",
+          "score": 0.5557
+        },
+        {
+          "uri": "http://monprojet.org/sports/RafaelNadal",
+          "libelle": "RafaelNadal",
+          "score": 0.5203
+        },
+        {
+          "uri": "http://monprojet.org/sports/UsainBolt",
+          "libelle": "UsainBolt",
+          "score": 0.5194
+        },
+        {
+          "uri": "http://monprojet.org/sports/2024SummerOlympics",
+          "libelle": "2024SummerOlympics",
+          "score": 0.4719
+        }
+      ]
+    },
+    "MichaelPhelps": {
+      "uri": "http://monprojet.org/sports/MichaelPhelps",
+      "voisins": [
+        {
+          "uri": "http://monprojet.org/sports/LeBronJames",
+          "libelle": "LeBronJames",
+          "score": 0.9361
+        },
+        {
+          "uri": "http://monprojet.org/sports/CarlLewis",
+          "libelle": "CarlLewis",
+          "score": 0.9078
+        },
+        {
+          "uri": "http://monprojet.org/sports/MichaelJordan",
+          "libelle": "MichaelJordan",
+          "score": 0.8904
+        },
+        {
+          "uri": "http://monprojet.org/sports/Q137478395",
+          "libelle": "Q137478395",
+          "score": 0.8693
+        },
+        {
+          "uri": "http://monprojet.org/sports/MuhammadAli",
+          "libelle": "MuhammadAli",
+          "score": 0.8614
+        },
+        {
+          "uri": "http://monprojet.org/sports/Q137439731",
+          "libelle": "Q137439731",
+          "score": 0.8592
+        },
+        {
+          "uri": "http://monprojet.org/sports/KimiGoetz",
+          "libelle": "KimiGoetz",
+          "score": 0.852
+        },
+        {
+          "uri": "http://monprojet.org/sports/IanQuinn",
+          "libelle": "IanQuinn",
+          "score": 0.8468
+        },
+        {
+          "uri": "http://monprojet.org/sports/Q137299366",
+          "libelle": "Q137299366",
+          "score": 0.841
+        },
+        {
+          "uri": "http://monprojet.org/sports/TigerWoods",
+          "libelle": "TigerWoods",
+          "score": 0.8408
+        }
+      ]
+    },
+    "EliudKipchoge": {
+      "uri": "http://monprojet.org/sports/EliudKipchoge",
+      "voisins": [
+        {
+          "uri": "http://monprojet.org/sports/UsainBolt",
+          "libelle": "UsainBolt",
+          "score": 0.8778
+        },
+        {
+          "uri": "http://monprojet.org/sports/MoFarah",
+          "libelle": "MoFarah",
+          "score": 0.8493
+        },
+        {
+          "uri": "http://monprojet.org/sports/SimoneBiles",
+          "libelle": "SimoneBiles",
+          "score": 0.8407
+        },
+        {
+          "uri": "http://monprojet.org/sports/LeBronJames",
+          "libelle": "LeBronJames",
+          "score": 0.8167
+        },
+        {
+          "uri": "http://monprojet.org/sports/MichaelPhelps",
+          "libelle": "MichaelPhelps",
+          "score": 0.8073
+        },
+        {
+          "uri": "http://monprojet.org/sports/CarlLewis",
+          "libelle": "CarlLewis",
+          "score": 0.7691
+        },
+        {
+          "uri": "http://monprojet.org/sports/AdilGaliakhmetov",
+          "libelle": "AdilGaliakhmetov",
+          "score": 0.6721
+        },
+        {
+          "uri": "http://monprojet.org/sports/MichaelJordan",
+          "libelle": "MichaelJordan",
+          "score": 0.6698
+        },
+        {
+          "uri": "http://monprojet.org/sports/KylianMbappe",
+          "libelle": "KylianMbappe",
+          "score": 0.6578
+        },
+        {
+          "uri": "http://monprojet.org/sports/CristianoRonaldo",
+          "libelle": "CristianoRonaldo",
+          "score": 0.655
+        }
+      ]
+    },
+    "CristianoRonaldo": {
+      "uri": "http://monprojet.org/sports/CristianoRonaldo",
+      "voisins": [
+        {
+          "uri": "http://monprojet.org/sports/Pelé",
+          "libelle": "Pelé",
+          "score": 0.7687
+        },
+        {
+          "uri": "http://monprojet.org/sports/KylianMbappe",
+          "libelle": "KylianMbappe",
+          "score": 0.7101
+        },
+        {
+          "uri": "http://monprojet.org/sports/SimoneBiles",
+          "libelle": "SimoneBiles",
+          "score": 0.7033
+        },
+        {
+          "uri": "http://monprojet.org/sports/LionelMessi",
+          "libelle": "LionelMessi",
+          "score": 0.6983
+        },
+        {
+          "uri": "http://monprojet.org/sports/KylianMbappé",
+          "libelle": "KylianMbappé",
+          "score": 0.6776
+        },
+        {
+          "uri": "http://monprojet.org/sports/EliudKipchoge",
+          "libelle": "EliudKipchoge",
+          "score": 0.655
+        },
+        {
+          "uri": "http://monprojet.org/sports/MoFarah",
+          "libelle": "MoFarah",
+          "score": 0.5842
+        },
+        {
+          "uri": "http://monprojet.org/sports/LeBronJames",
+          "libelle": "LeBronJames",
+          "score": 0.5366
+        },
+        {
+          "uri": "http://monprojet.org/sports/MichaelPhelps",
+          "libelle": "MichaelPhelps",
+          "score": 0.5353
+        },
+        {
+          "uri": "http://monprojet.org/sports/UsainBolt",
+          "libelle": "UsainBolt",
+          "score": 0.5342
+        }
+      ]
+    },
+    "NovakDjokovic": {
+      "uri": "http://monprojet.org/sports/NovakDjokovic",
+      "voisins": [
+        {
+          "uri": "http://monprojet.org/sports/RogerFederer",
+          "libelle": "RogerFederer",
+          "score": 0.7653
+        },
+        {
+          "uri": "http://monprojet.org/sports/SerenaWilliams",
+          "libelle": "SerenaWilliams",
+          "score": 0.7524
+        },
+        {
+          "uri": "http://monprojet.org/sports/RafaelNadal",
+          "libelle": "RafaelNadal",
+          "score": 0.5906
+        },
+        {
+          "uri": "http://monprojet.org/sports/LeBronJames",
+          "libelle": "LeBronJames",
+          "score": 0.5357
+        },
+        {
+          "uri": "http://monprojet.org/sports/CarlLewis",
+          "libelle": "CarlLewis",
+          "score": 0.5351
+        },
+        {
+          "uri": "http://monprojet.org/sports/MichaelJordan",
+          "libelle": "MichaelJordan",
+          "score": 0.5344
+        },
+        {
+          "uri": "http://monprojet.org/sports/Q137439731",
+          "libelle": "Q137439731",
+          "score": 0.5318
+        },
+        {
+          "uri": "http://monprojet.org/sports/MuhammadAli",
+          "libelle": "MuhammadAli",
+          "score": 0.5276
+        },
+        {
+          "uri": "http://monprojet.org/sports/MichaelPhelps",
+          "libelle": "MichaelPhelps",
+          "score": 0.5272
+        },
+        {
+          "uri": "http://monprojet.org/sports/Q137478395",
+          "libelle": "Q137478395",
+          "score": 0.5266
+        }
+      ]
+    },
+    "SimoneBiles": {
+      "uri": "http://monprojet.org/sports/SimoneBiles",
+      "voisins": [
+        {
+          "uri": "http://monprojet.org/sports/EliudKipchoge",
+          "libelle": "EliudKipchoge",
+          "score": 0.8407
+        },
+        {
+          "uri": "http://monprojet.org/sports/MoFarah",
+          "libelle": "MoFarah",
+          "score": 0.8251
+        },
+        {
+          "uri": "http://monprojet.org/sports/KylianMbappe",
+          "libelle": "KylianMbappe",
+          "score": 0.816
+        },
+        {
+          "uri": "http://monprojet.org/sports/UsainBolt",
+          "libelle": "UsainBolt",
+          "score": 0.7927
+        },
+        {
+          "uri": "http://monprojet.org/sports/LeBronJames",
+          "libelle": "LeBronJames",
+          "score": 0.7295
+        },
+        {
+          "uri": "http://monprojet.org/sports/MichaelPhelps",
+          "libelle": "MichaelPhelps",
+          "score": 0.7275
+        },
+        {
+          "uri": "http://monprojet.org/sports/CristianoRonaldo",
+          "libelle": "CristianoRonaldo",
+          "score": 0.7033
+        },
+        {
+          "uri": "http://monprojet.org/sports/NadiaComaneci",
+          "libelle": "NadiaComaneci",
+          "score": 0.6707
+        },
+        {
+          "uri": "http://monprojet.org/sports/RafaelNadal",
+          "libelle": "RafaelNadal",
+          "score": 0.6466
+        },
+        {
+          "uri": "http://monprojet.org/sports/CarlLewis",
+          "libelle": "CarlLewis",
+          "score": 0.6312
+        }
+      ]
+    }
+  }
+}
